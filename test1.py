@@ -17,6 +17,12 @@ def writeOutToFile(outgoingData,fileName):
 #=-=-=-=-=-=-
 # MAIN
 #=-=-=-=-=-=-
-response = requests.get("https://oxylabs.io/")
-#print(response.text)
-writeOutToFile((response.text),"output")
+
+form_data = {'key1': 'value1', 'key2': 'value2'}
+response = requests.post("https://oxylabs.io/ ", data=form_data)
+print(response.text)
+
+#response = requests.get("https://oxylabs.io/")
+
+
+#writeOutToFile((response.text),"output")
