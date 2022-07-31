@@ -1,0 +1,6360 @@
+
+78482
+Dentist 2
+32
+01/30/20
+12/31/22
+People With Developmental Disabilities, Office for
+Broome
+
+84957
+Child Care Aide 1, Box CCA 1 - Rome
+09
+03/04/21
+12/02/23
+Education Department, State
+Oneida
+
+88232
+Nurse 2 NYS Veterans Home at Montrose
+16
+06/29/21
+12/31/22
+Health, Department of 
+Westchester
+
+91443
+Project Assistant, (Three positions) Box CFO-500/51522, 51523, 51524
+NS
+09/20/21
+12/02/23
+Education Department, State
+Albany
+
+91818
+Project Assistant, Box CFO-503/51551
+NS
+09/24/21
+12/02/23
+Education Department, State
+Albany
+
+91820
+Project Director, Box CFO-501/51553
+NS
+09/24/21
+12/02/23
+Education Department, State
+Albany
+
+92396
+Child Care Aide 1 (Substitute), (Continuous Recruitment), CCA 1 Sub - Batavia
+NS
+10/05/21
+12/02/23
+Education Department, State
+Genesee
+
+92603
+Special Education Assistant, (Continuous Recruitment), Box NYSSB - SEA
+NS
+10/08/21
+12/02/23
+Education Department, State
+Genesee
+
+92824
+Instructor (Special Education/Teacher of the Deaf) Continuous Recruitment, Box NYSSD-Instructor (Spec. Ed./Teacher of the Deaf)
+NS
+10/14/21
+12/02/23
+Education Department, State
+Oneida
+
+92838
+Child Care Aide 1 (Substitute), CCA 1 Sub - Rome
+NS
+10/14/21
+12/02/23
+Education Department, State
+Oneida
+
+93533
+Nurse 1 (Substitute), Continuous Recruitment, Box Nurse 1 Sub - Batavia
+NS
+10/29/21
+12/02/23
+Education Department, State
+Genesee
+
+94379
+Tax Information Aide (Call Center)
+Hourly
+11/17/21
+01/31/23
+Taxation & Finance, State
+Albany
+
+95487
+Project Director, Box PIMS-530/51885
+NS
+12/09/21
+12/02/23
+Education Department, State
+Albany
+
+95756
+Psychiatrist 2 - (Richmond County) - Institute for Basic Research
+38
+12/15/21
+12/15/22
+People With Developmental Disabilities, Office for
+Richmond
+
+96512
+Trades Specialist, Electrician, Capital District Psychiatric Center, P22071
+12
+12/30/21
+09/30/22
+Mental Health, Office of
+Albany
+
+96606
+Service and Repair Mechanic Motor Equipment Region 1 
+12
+01/03/22
+12/31/22
+Transportation, Department of 
+Saratoga
+
+96644
+Service and Repair Mechanic (Motor Equipment), Region 7
+12
+01/04/22
+12/31/22
+Transportation, Department of 
+Clinton
+
+96661
+Service and Repair Mechanic (Motor Equipment) - Region 10 Nassau
+12
+01/04/22
+12/31/22
+Transportation, Department of 
+Nassau
+
+96671
+Service and Repair Mechanic (Motor Equipment), Region 7
+12
+01/04/22
+12/31/22
+Transportation, Department of 
+Jefferson
+
+96674
+Service and Repair Mechanic (Motor Equipment), Region 7
+12
+01/04/22
+12/31/22
+Transportation, Department of 
+St Lawrence
+
+96677
+Service and Repair Mechanic (Motor Equipment), Region 5
+12
+01/04/22
+12/31/22
+Transportation, Department of 
+Erie
+
+96680
+Service and Repair Mechanic (Motor Equipment), Region 5
+12
+01/04/22
+12/31/22
+Transportation, Department of 
+Niagara
+
+96687
+Service and Repair Mechanic (Mtr. Eq.)-Onondaga County Region 3
+12
+01/04/22
+12/31/22
+Transportation, Department of 
+Onondaga
+
+96696
+Service and Repair Mechanic (Mtr. Eq.)-Oswego Region 3
+12
+01/04/22
+12/31/22
+Transportation, Department of 
+Oswego
+
+96712
+Secure Care Treatment Aide 1, Capital District Psychiatric Center, P22106
+11
+01/04/22
+09/30/22
+Mental Health, Office of
+Albany
+
+96719
+Licensed Master Social Worker 2, Capital District Psychiatric Center, P22110
+20
+01/04/22
+09/30/22
+Mental Health, Office of
+Albany
+
+96724
+Trades Specialist, Plumber/ Steamfitter, Capital District Psychiatric Center, P22113
+12
+01/04/22
+09/30/22
+Mental Health, Office of
+Albany
+
+96748
+Service and Repair Mechanic (Motor Equipment) Region 2 - Oneida County
+12
+01/04/22
+12/31/22
+Transportation, Department of 
+Oneida
+
+96755
+Service and Repair Mechanic (Motor Equipment) Region 2 - Herkimer County
+12
+01/04/22
+12/31/22
+Transportation, Department of 
+Herkimer
+
+96759
+Service and Repair Mechanic (Motor Equipment) Region 2 - Fulton County
+12
+01/04/22
+12/31/22
+Transportation, Department of 
+Fulton
+
+96819
+Senior Licensed Practical Nurse 1/Senior Licensed Practical Nurse 2, Capital District Psychiatric Center, P22089
+13
+01/05/22
+09/30/22
+Mental Health, Office of
+Albany
+
+96900
+Service and Repair Mechanic (Motor Equipment) Region 4- Monroe County
+12
+01/05/22
+12/31/22
+Transportation, Department of 
+Monroe
+
+96903
+Service and Repair Mechanic (Motor Equipment) Region 4- Wayne County
+12
+01/05/22
+12/31/22
+Transportation, Department of 
+Wayne
+
+96906
+Service and Repair Mechanic (Motor Equipment) Region 4- Ontario County
+12
+01/05/22
+12/31/22
+Transportation, Department of 
+Ontario
+
+96911
+Service and Repair Mechanic (Motor Equipment) Region 4- Orleans County
+12
+01/05/22
+12/31/22
+Transportation, Department of 
+Orleans
+
+96924
+Service and Repair Mechanic (Motor Equipment), Region 6
+12
+01/06/22
+12/31/22
+Transportation, Department of 
+Allegany
+
+96926
+Service and Repair Mechanic (Motor Equipment), Region 6
+12
+01/06/22
+12/31/22
+Transportation, Department of 
+Schuyler
+
+96928
+Service and Repair Mechanic (Motor Equipment), Region 6
+12
+01/06/22
+12/31/22
+Transportation, Department of 
+Yates
+
+97095
+Licensed Psychologist; St. Lawrence Psychiatric Center, P22128
+25
+01/10/22
+12/29/22
+Mental Health, Office of
+St Lawrence
+
+97492
+Motor Vehicle Operator, Box ROM-344/00550
+07
+01/19/22
+12/02/23
+Education Department, State
+Oneida
+
+97534
+Senior Occupational Therapist, Washington Psychiatric Heights Unit, P22176
+18
+01/19/22
+08/30/22
+Mental Health, Office of
+New York
+
+97611
+Nurse 3 Psychiatric, Elmira Psychiatric Center, P22195
+20
+01/20/22
+08/16/22
+Mental Health, Office of
+Chemung
+
+97931
+Medical Assistant
+08
+01/26/22
+08/31/22
+Civil Service, Department of 
+Albany
+
+98023
+Assistant in Education Improvement Services, Box OHE-875/05052
+22
+01/27/22
+12/02/23
+Education Department, State
+Albany
+
+98136
+Service and Repair Mechanic (Motor Equipment), Region 9
+12
+01/31/22
+12/31/22
+Transportation, Department of 
+Chenango
+
+98139
+Service and Repair Mechanic (Motor Equipment), Region 9
+12
+01/31/22
+12/31/22
+Transportation, Department of 
+Otsego
+
+98141
+Service and Repair Mechanic (Motor Equipment), Region 9
+12
+01/31/22
+12/31/22
+Transportation, Department of 
+Sullivan
+
+98146
+Licensed Psychologist, Central New York Psychiatric Center – State Wide Satellite Units, P22242
+25
+01/31/22
+12/14/22
+Mental Health, Office of
+To Be Determined
+
+98152
+Psychologist 2, Central New York Psychiatric Center – State Wide Satellite Unit, P22244
+23
+01/31/22
+12/14/22
+Mental Health, Office of
+To Be Determined
+
+98306
+Project Assistant, Box PIMS-545/51517
+NS
+02/01/22
+12/02/23
+Education Department, State
+Albany
+
+98344
+Liquid Fuel Systems Maintenance Technician
+14
+02/02/22
+08/31/22
+Military and Naval Affairs, Division of 
+Schenectady
+
+98514
+Hospital Nursing Service Consultant - Continuous Recruitment 
+22
+02/04/22
+08/31/22
+Health, Department of 
+To Be Determined
+
+98569
+Nurse 3 Psychiatric, Central New York Psychiatric Center – Marcy - P22292
+20
+02/04/22
+08/25/22
+Mental Health, Office of
+Oneida
+
+98615
+Project Assistant, Box OHE-915/51548
+NS
+02/07/22
+12/02/23
+Education Department, State
+Albany
+
+98631
+Nurse 2
+16
+02/07/22
+12/31/22
+Corrections and Community Supervision, Department of 
+Oneida
+
+98660
+Nurse 2 - Broome
+16
+02/07/22
+12/31/22
+People With Developmental Disabilities, Office for
+Broome
+
+98777
+Nurse Practitioner Psychiatry, Elmira Psychiatric Center, Assertive Community Treatment, Geneva, P22308
+24
+02/09/22
+08/04/22
+Mental Health, Office of
+Ontario
+
+98875
+Nurse 2 Psychiatric, Central New York Psychiatric Center – Clinton Satellite Unit, P22326
+16
+02/10/22
+08/25/22
+Mental Health, Office of
+Clinton
+
+99277
+Teacher 2 / Teacher 3 / Teacher 4 - Substitute Temporary, St. Lawrence Psychiatric Center, Children and Youth,  P22359
+NS
+02/15/22
+11/18/22
+Mental Health, Office of
+St Lawrence
+
+99355
+Director of Charter Schools, (Albany or Brooklyn Location), Box OHE-892/21131
+664
+02/15/22
+12/02/23
+Education Department, State
+Albany
+
+99408
+Dentist 2, St. Lawrence Psychiatric Center, P22380
+32
+02/16/22
+11/09/22
+Mental Health, Office of
+St Lawrence
+
+99538
+Cleaner, South Beach Psychiatric Center, Cleaner, P22388
+05
+02/18/22
+08/18/22
+Mental Health, Office of
+Richmond
+
+99608
+C220029 - Service & Repair Assistant (HVAC-R), Facilities - Campus Operations
+09
+02/22/22
+03/01/23
+University at Buffalo
+Erie
+
+99857
+Project Coordinator, Box OHE-917/51578
+NS
+02/25/22
+12/02/23
+Education Department, State
+Albany
+
+100034
+Plant Utilities Assistant, New York State Psychiatric Institute, P22422
+09
+03/02/22
+08/30/22
+Mental Health, Office of
+New York
+
+100092
+General Mechanic-REPOST
+12
+03/02/22
+08/31/22
+Military and Naval Affairs, Division of 
+New York
+
+100278
+C220020 - Facility Operations Assistant 1 (Utilities) - Campus Operations
+06
+03/07/22
+09/01/22
+University at Buffalo
+Erie
+
+100327
+Licensed Master Social Worker 1, Secure Treatment and Rehabilitations Center, STARC, Bridgeview, P22464
+18
+03/08/22
+09/22/22
+Mental Health, Office of
+St Lawrence
+
+100364
+Disaster Preparedness Assistant
+12
+03/08/22
+12/31/22
+Homeland Security and Emergency Services, Division of 
+Albany
+
+100456
+Clinical Physician 1 or 2 Per Diem
+36
+03/09/22
+09/14/22
+Corrections and Community Supervision, Department of 
+Sullivan
+
+100474
+Nurse 2
+16
+03/09/22
+09/14/22
+Corrections and Community Supervision, Department of 
+Jefferson
+
+100520
+Recreation Therapist - Music, Creedmoor Psychiatric Center, P22473
+14
+03/10/22
+08/09/22
+Mental Health, Office of
+Queens
+
+100552
+Licensed Master Social Worker 2, Mid-Hudson Forensic Psychiatric Center, P22476
+20
+03/10/22
+08/26/22
+Mental Health, Office of
+Orange
+
+100560
+Associate Psychologist, New York City Children's Center, Queens Campus, P22479
+23
+03/10/22
+12/30/22
+Mental Health, Office of
+Queens
+
+100662
+Disaster Preparedness Program Representative 1
+14
+03/11/22
+12/31/22
+Homeland Security and Emergency Services, Division of 
+Albany
+
+100721
+Dietitian 2, Washington Heights Psychiatric Unit, P22858
+18
+03/14/22
+09/15/22
+Mental Health, Office of
+New York
+
+100731
+Pharmacy Consultant 
+25
+03/14/22
+09/01/22
+Health, Department of 
+Albany
+
+100733
+Print Equipment Operator 2, Box PIMS-554/01366
+09
+03/14/22
+12/02/23
+Education Department, State
+Albany
+
+100738
+Bridge Repair Assistant/Trainee 1/Trainee 2 (Region 2 - Canajoharie)
+09
+03/14/22
+09/14/22
+Transportation, Department of 
+Montgomery
+
+100741
+Tree Pruner (Region 2)
+08
+03/14/22
+09/14/22
+Transportation, Department of 
+Oneida
+
+100821
+Superintendent, School for the Deaf, Box ROM-354/00001
+NS
+03/15/22
+12/02/23
+Education Department, State
+Oneida
+
+100979
+Teacher 2 / Teacher 3 / Teacher 4 - Substitute Temporary, Rockland Children's Psychiatric Center, P22506
+NS
+03/17/22
+08/15/22
+Mental Health, Office of
+Rockland
+
+101186
+Temporary Facilities Operations Assistant 1 Summer 2022 (Grounds) OPEN UNTIL FILLED
+Hourly
+03/21/22
+08/31/22
+University at Albany
+Albany
+
+101191
+Temporary Cleaner (Summer 2022) OPEN UNTIL FILLED
+Hourly
+03/21/22
+08/31/22
+University at Albany
+Albany
+
+101276
+Licensed Psychologist, Mid-Hudson Forensic Psychiatric Center, P22541
+25
+03/22/22
+08/16/22
+Mental Health, Office of
+Orange
+
+101499
+Deputy Superintendent for Insurance
+NS
+03/24/22
+08/31/22
+Financial Services, Department of
+New York
+
+101655
+Print Equipment Operator 3, Box PIMS-555/01333
+12
+03/28/22
+12/02/23
+Education Department, State
+Albany
+
+102225
+Hourly Nurse 2 Psychiatric or Nurse 1 (Creedmoor ATC)
+Hourly
+04/05/22
+03/31/23
+Addiction Services and Supports, Office of 
+Queens
+
+102251
+Licensed Practical Nurse (Hourly) - Creedmoor Addiction Treatment Center
+NS
+04/05/22
+03/31/23
+Addiction Services and Supports, Office of 
+Queens
+
+102278
+RN2 - Nurse 2   EOA# 22-063
+16
+04/05/22
+10/06/22
+People With Developmental Disabilities, Office for
+Westchester
+
+102425
+Recreation Therapist, Creedmoor Psychiatric Center, P22623
+14
+04/07/22
+08/05/22
+Mental Health, Office of
+Queens
+
+102648
+Nurse 2 Psy/Nurse 1 Hourly (South Beach ATC)
+Hourly
+04/12/22
+03/31/23
+Addiction Services and Supports, Office of 
+Richmond
+
+102732
+Test Center Supervisor
+Hourly
+04/13/22
+12/31/22
+Civil Service, Department of 
+Clinton
+
+102735
+Test Center Supervisor
+Hourly
+04/13/22
+12/31/22
+Civil Service, Department of 
+Franklin
+
+102738
+Test Center Monitor
+Hourly
+04/13/22
+12/31/22
+Civil Service, Department of 
+New York
+
+102741
+Test Center Supervisor
+Hourly
+04/13/22
+12/31/22
+Civil Service, Department of 
+Erie
+
+102743
+Test Center Supervisor
+Hourly
+04/13/22
+12/31/22
+Civil Service, Department of 
+Oneida
+
+102750
+Test Center Monitor
+Hourly
+04/13/22
+12/31/22
+Civil Service, Department of 
+Montgomery
+
+102804
+Test Center Monitor
+Hourly
+04/13/22
+12/31/22
+Civil Service, Department of 
+Dutchess
+
+102817
+Test Center Monitor
+Hourly
+04/13/22
+12/31/22
+Civil Service, Department of 
+Oneida
+
+102825
+Test Center Monitor
+Hourly
+04/13/22
+12/31/22
+Civil Service, Department of 
+Onondaga
+
+102827
+Test Center Monitor
+Hourly
+04/13/22
+12/31/22
+Civil Service, Department of 
+Monroe
+
+102830
+Test Center Monitor
+Hourly
+04/13/22
+12/31/22
+Civil Service, Department of 
+Suffolk
+
+102832
+Test Center Monitor
+Hourly
+04/13/22
+12/31/22
+Civil Service, Department of 
+New York
+
+102836
+Test Center Monitor
+Hourly
+04/13/22
+12/31/22
+Civil Service, Department of 
+Ulster
+
+103004
+Psychiatrist 2 (Research), Part-Time, New York State Psychiatric Institute, P22663
+38
+04/14/22
+09/05/22
+Mental Health, Office of
+New York
+
+103084
+Licensed Psychologist
+25
+04/15/22
+09/30/22
+People With Developmental Disabilities, Office for
+Broome
+
+103165
+Youth Support Specialist (Perm)
+14
+04/15/22
+08/01/22
+Children & Family Services, Office of 
+Tompkins
+
+103398
+Licensed Psychologist, Creedmoor Psychiatric Center, P22685
+25
+04/20/22
+08/04/22
+Mental Health, Office of
+Queens
+
+103496
+C220057 - Motor Vehicle Operator, Grounds – Campus Operations
+07
+04/21/22
+10/19/22
+University at Buffalo
+Erie
+
+103586
+Bridge Repair Assistant Trainee 1/Trainee 2/Bridge Repair Assistant 1 (Region 10)
+NS
+04/22/22
+12/31/22
+Transportation, Department of 
+Suffolk
+
+103701
+Psychiatrist 1 or 2 (Hourly) - South Beach ATC
+Hourly
+04/26/22
+03/31/23
+Addiction Services and Supports, Office of 
+Richmond
+
+103747
+Psychiatrist 1 or Psychiatrist 2 (McPike Addiction Treatment Center)
+38
+04/26/22
+09/30/22
+Addiction Services and Supports, Office of 
+Oneida
+
+103987
+Bridge Repair Assistant Trainee 1/Trainee 2/Bridge Repair Assistant 1 (Region7)
+NS
+04/29/22
+10/28/22
+Transportation, Department of 
+Franklin
+
+103991
+Bridge Repair Assistant Trainee 1/Trainee 2/Bridge Repair Assistant 1 (Region7)
+NS
+04/29/22
+10/28/22
+Transportation, Department of 
+Clinton
+
+104058
+Licensed Master Social Worker 2, Central New York Psychiatric Center, Hudson Satellite Unit, P22757
+20
+05/02/22
+08/08/22
+Mental Health, Office of
+Dutchess
+
+104060
+Licensed Master Social Worker 1, Central New York Psychiatric Center, Mid-State Satellite Unit, Marcy,P22760
+18
+05/02/22
+08/08/22
+Mental Health, Office of
+Oneida
+
+104082
+Rehabilitation Counselor 2, Central New York Psychiatric Center – Upstate Mental Health Unit, P22763
+19
+05/03/22
+08/17/22
+Mental Health, Office of
+Franklin
+
+104172
+Licensed Master Social Worker 2, Korean Language, Creedmoor Psychiatric Center, P22775
+20
+05/04/22
+08/08/22
+Mental Health, Office of
+Queens
+
+104224
+Nurse 2
+16
+05/04/22
+07/31/22
+Children & Family Services, Office of 
+Monroe
+
+104236
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 (Region 10)
+06
+05/04/22
+12/31/22
+Transportation, Department of 
+Nassau
+
+104240
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 (Region 10)
+06
+05/04/22
+12/31/22
+Transportation, Department of 
+Nassau
+
+104275
+Highway Maintenance Worker 1/ Trainee 2 (Herkimer County-Region 2)
+NS
+05/05/22
+12/31/22
+Transportation, Department of 
+Herkimer
+
+104280
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 (Region 8- Ulster County)
+06
+05/05/22
+12/31/22
+Transportation, Department of 
+Ulster
+
+104283
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 (Region 8- Putnam County)
+06
+05/05/22
+12/31/22
+Transportation, Department of 
+Putnam
+
+104285
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 (Region 8- Ulster County)
+06
+05/05/22
+12/31/22
+Transportation, Department of 
+Ulster
+
+104287
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 (Region 8- Putnam County)
+06
+05/05/22
+12/31/22
+Transportation, Department of 
+Putnam
+
+104289
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 (Region 8- Ulster County)
+06
+05/05/22
+12/31/22
+Transportation, Department of 
+Ulster
+
+104291
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 (Region 8- Putnam County)
+06
+05/05/22
+12/31/22
+Transportation, Department of 
+Putnam
+
+104295
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 (Region 8- Orange County)
+06
+05/05/22
+12/31/22
+Transportation, Department of 
+Orange
+
+104297
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 (Region 8- Orange County)
+06
+05/05/22
+12/31/22
+Transportation, Department of 
+Orange
+
+104301
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 (Region 8- Dutchess County)
+06
+05/05/22
+12/31/22
+Transportation, Department of 
+Dutchess
+
+104304
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 (Region 8- Columbia County)
+06
+05/05/22
+12/31/22
+Transportation, Department of 
+Columbia
+
+104306
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 (Region 8- Columbia County)
+06
+05/05/22
+12/31/22
+Transportation, Department of 
+Columbia
+
+104318
+Thruway Maintenance Worker (Trainee)
+NS
+05/05/22
+08/31/22
+Thruway Authority
+Albany
+
+104321
+Licensed Master Social Worker 2, South Beach Psychiatric Center, Chinese Language, P22799
+20
+05/05/22
+11/04/22
+Mental Health, Office of
+Richmond
+
+104325
+Trades Generalist (Electrician)
+12
+05/05/22
+08/31/22
+Thruway Authority
+Albany
+
+104345
+Highway Maintenance Worker 1/ Trainee 1/ Trainee 2 (Hamilton County-Region 2)
+NS
+05/06/22
+12/31/22
+Transportation, Department of 
+Hamilton
+
+104348
+Highway Maintenance Worker 1/ Trainee 1/ Trainee 2 (Montgomery County-Region 2)
+NS
+05/06/22
+12/31/22
+Transportation, Department of 
+Montgomery
+
+104352
+Highway Maintenance Worker 1/ Trainee 1/ Trainee 2 (Fulton County-Region 2)
+NS
+05/06/22
+12/31/22
+Transportation, Department of 
+Fulton
+
+104355
+Highway Maintenance Worker 1/ Trainee 2 (Herkimer County-Region 2)
+NS
+05/06/22
+12/31/22
+Transportation, Department of 
+Herkimer
+
+104358
+Highway Maintenance Worker 1/ Trainee 1/ Trainee 2 (Madison County-Region 2)
+NS
+05/06/22
+12/31/22
+Transportation, Department of 
+Madison
+
+104362
+Senior Engineering Technician
+13
+05/06/22
+09/30/22
+Military and Naval Affairs, Division of 
+Orange
+
+104364
+Senior Engineering Technician
+13
+05/06/22
+09/30/22
+Military and Naval Affairs, Division of 
+Westchester
+
+104386
+Airport Firefighter 1
+12
+05/06/22
+12/31/23
+Military and Naval Affairs, Division of 
+Suffolk
+
+104393
+Regional Supervisor, Facilities Operations
+NS
+05/06/22
+08/31/22
+Military and Naval Affairs, Division of 
+Onondaga
+
+104401
+Maintenance Supervisor 4-REPOST
+21
+05/06/22
+09/30/22
+Military and Naval Affairs, Division of 
+Westchester
+
+104428
+Facilities Operations Assistant 1 
+06
+05/06/22
+08/31/22
+Military and Naval Affairs, Division of 
+Erie
+
+104445
+Highway Maintenance Worker Trainee 1/Highway Maintenance Worker Trainee 2/Highway Maintenance Worker 1 (Region 4- Monroe County)
+06
+05/07/22
+12/31/22
+Transportation, Department of 
+Monroe
+
+104447
+Highway Maintenance Worker Trainee 1/Highway Maintenance Worker Trainee 2/Highway Maintenance Worker 1 (Region 4- Livingston County)
+06
+05/07/22
+12/31/22
+Transportation, Department of 
+Livingston
+
+104449
+Highway Maintenance Worker Trainee 1/Highway Maintenance Worker Trainee 2/Highway Maintenance Worker 1 (Region 4- Wayne County)
+06
+05/07/22
+12/31/22
+Transportation, Department of 
+Wayne
+
+104451
+Highway Maintenance Worker Trainee 1/Highway Maintenance Worker Trainee 2/Highway Maintenance Worker 1 (Region 4- Ontario County)
+06
+05/07/22
+12/31/22
+Transportation, Department of 
+Ontario
+
+104453
+Highway Maintenance Worker Trainee 1/Highway Maintenance Worker Trainee 2/Highway Maintenance Worker 1 (Region 4- Genesee County)
+06
+05/07/22
+12/31/22
+Transportation, Department of 
+Genesee
+
+104455
+Highway Maintenance Worker Trainee 1/Highway Maintenance Worker Trainee 2/Highway Maintenance Worker 1 (Region 4- Orleans County)
+06
+05/07/22
+12/31/22
+Transportation, Department of 
+Orleans
+
+104457
+Highway Mainetenance Worker Trainee 1/Highway Maintenance Worker Trainee 2/Highway Maintenance Worker 1 (Region 4- Wyoming County)
+06
+05/07/22
+12/31/22
+Transportation, Department of 
+Wyoming
+
+104468
+Nurse 1
+14
+05/09/22
+08/07/22
+Children & Family Services, Office of 
+Tompkins
+
+104477
+Highway Maintenance Worker Trainee 2/Highway Maintenance Worker 1 (Region 6- Allegany County)
+06
+05/09/22
+12/31/22
+Transportation, Department of 
+Allegany
+
+104482
+Highway Maintenance Worker Trainee 1/Highway Maintenance Worker Trainee 2/Highway Maintenance Worker 1 (Region 6- Steuben County)
+06
+05/09/22
+12/31/22
+Transportation, Department of 
+Steuben
+
+104485
+Highway Maintenance Worker Trainee 1/Highway Maintenance Worker Trainee 2/Highway Maintenance Worker 1 (Region 6- Schuyler County)
+NS
+05/09/22
+12/31/22
+Transportation, Department of 
+Schuyler
+
+104488
+Highway Maintenance Worker Trainee 1/Highway Maintenance Worker Trainee 2/Highway Maintenance Worker 1 (Region 6- Chemung County)
+06
+05/09/22
+12/31/22
+Transportation, Department of 
+Chemung
+
+104558
+Nurse 1 or 2 - Campus
+16
+05/10/22
+11/25/22
+People With Developmental Disabilities, Office for
+Franklin
+
+104569
+Deputy Director, Psychiatric Research, M-8, New York State Psychiatric Institute, P22813 
+668
+05/10/22
+08/22/22
+Mental Health, Office of
+New York
+
+104629
+Special Assistant Attorney General, Medicaid Fraud Control Units Civil Enforcement Division NYC (MFCU_SAAG_NYC_3463)
+NS
+05/11/22
+09/02/22
+Attorney General, Office of the
+New York
+
+104676
+Nurse 2 Psy/Nurse 1 Hourly (St. Lawrence ATC)
+Hourly
+05/11/22
+03/31/23
+Addiction Services and Supports, Office of 
+St Lawrence
+
+104693
+Assistant Research Scientist - 14650
+14
+05/11/22
+08/01/22
+Health, Department of 
+Albany
+
+104726
+Director, College and University Evaluation, Box OHE-921/15041
+664
+05/12/22
+12/02/23
+Education Department, State
+Albany
+
+104732
+Nurse 2 Psychiatric or Nurse 1 Hourly (John L. Norris ATC)
+Hourly
+05/12/22
+03/31/23
+Addiction Services and Supports, Office of 
+Monroe
+
+104735
+Nurse 2 Psychiatric or Nurse 1 Hourly (Dick Van Dyke ATC)
+Hourly
+05/12/22
+03/31/23
+Addiction Services and Supports, Office of 
+Seneca
+
+104816
+Test Center Supervisor
+Hourly
+05/13/22
+12/31/22
+Civil Service, Department of 
+Ulster
+
+104818
+Test Center Supervisor
+Hourly
+05/13/22
+12/31/22
+Civil Service, Department of 
+New York
+
+104836
+Associate Psychologist
+23
+05/13/22
+07/31/22
+Children & Family Services, Office of 
+Columbia
+
+104838
+Psychologist 2
+23
+05/13/22
+07/31/22
+Children & Family Services, Office of 
+Columbia
+
+104842
+Teacher 2,3,4
+13
+05/13/22
+07/31/22
+Children & Family Services, Office of 
+Columbia
+
+104852
+Dental Assistant
+08
+05/13/22
+10/06/22
+Corrections and Community Supervision, Department of 
+Seneca
+
+104858
+Nurse Practitioner Family Health, Hutchings Psychiatric Center, P22843
+24
+05/13/22
+08/08/22
+Mental Health, Office of
+Onondaga
+
+104867
+Recreation Program Leader 1
+14
+05/13/22
+10/06/22
+Corrections and Community Supervision, Department of 
+Seneca
+
+104901
+Highway Maintenance Worker 1/ Trainee 1/ Trainee 2 (Cayuga County-Region 3)
+NS
+05/14/22
+12/31/22
+Transportation, Department of 
+Cayuga
+
+104903
+Highway Maintenance Worker 1/ Trainee 1/ Trainee 2 (Cortland County-Region 3)
+NS
+05/14/22
+12/31/22
+Transportation, Department of 
+Cortland
+
+104905
+Highway Maintenance Worker 1/ Trainee 1/ Trainee 2 (Onondaga County-Region 3)
+NS
+05/14/22
+12/31/22
+Transportation, Department of 
+Onondaga
+
+104907
+Highway Maintenance Worker 1/ Trainee 1/ Trainee 2 (Oswego County-Region 3)
+NS
+05/14/22
+12/31/22
+Transportation, Department of 
+Oswego
+
+104909
+Highway Maintenance Worker 1/ Trainee 1/ Trainee 2 (Seneca County-Region 3)
+NS
+05/14/22
+12/31/22
+Transportation, Department of 
+Seneca
+
+104911
+Highway Maintenance Worker 1/ Trainee 1/ Trainee 2 (Tompkins County-Region 3)
+NS
+05/14/22
+12/31/22
+Transportation, Department of 
+Tompkins
+
+105007
+Office Assistant 1 - Keyboarding
+06
+05/16/22
+11/11/22
+People With Developmental Disabilities, Office for
+Rockland
+
+105013
+Psychology Positions
+23
+05/17/22
+11/25/22
+People With Developmental Disabilities, Office for
+Franklin
+
+105044
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 
+06
+05/17/22
+12/31/22
+Transportation, Department of 
+Cattaraugus
+
+105046
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 
+06
+05/17/22
+12/31/22
+Transportation, Department of 
+Niagara
+
+105049
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 
+06
+05/17/22
+12/31/22
+Transportation, Department of 
+Cattaraugus
+
+105051
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 
+06
+05/17/22
+12/31/22
+Transportation, Department of 
+Niagara
+
+105069
+Assistant Commissioner of Learning Standards and Instructional Programs, Box P12-2183/66001
+NS
+05/17/22
+12/02/23
+Education Department, State
+Albany
+
+105083
+Nurse 1   Registered Nurse 1     EOA # 22-012R
+14
+05/17/22
+01/07/23
+People With Developmental Disabilities, Office for
+Westchester
+
+105121
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 (Region 7) 
+06
+05/18/22
+12/31/22
+Transportation, Department of 
+Clinton
+
+105123
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 (Region 7) 
+06
+05/18/22
+12/31/22
+Transportation, Department of 
+Jefferson
+
+105126
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 (Region 7) 
+06
+05/18/22
+12/31/22
+Transportation, Department of 
+St Lawrence
+
+105128
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 (Region 7) 
+06
+05/18/22
+12/31/22
+Transportation, Department of 
+Franklin
+
+105130
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 (Region 7) 
+06
+05/18/22
+12/31/22
+Transportation, Department of 
+Lewis
+
+105200
+Registered Nurse 2 - Temp -  Per Diem EOA#21-092R
+Hourly
+05/19/22
+11/19/22
+People With Developmental Disabilities, Office for
+Westchester
+
+105206
+Registered Nurse 2    RN2   EOA# 21-007R
+16
+05/19/22
+01/07/23
+People With Developmental Disabilities, Office for
+Westchester
+
+105213
+Registered Nurse 2    RN2   EOA# 20-086R
+16
+05/19/22
+01/07/23
+People With Developmental Disabilities, Office for
+Westchester
+
+105223
+Licensed Master Social Worker 2, Washington Heights Psychiatric Unit, P22859
+20
+05/19/22
+08/12/22
+Mental Health, Office of
+New York
+
+105358
+Project Assistant, Box P12-2155/ 51576
+NS
+05/20/22
+12/02/23
+Education Department, State
+Albany
+
+105407
+Health Information Management Technician 1, Capital District Psychiatric Center, P2287268
+13
+05/23/22
+11/17/22
+Mental Health, Office of
+Albany
+
+105453
+Cleaner, Pilgrim Psychiatric Center, Cleaner, P22885
+05
+05/24/22
+08/08/22
+Mental Health, Office of
+Suffolk
+
+105470
+Auditor 1 (Municipal) - Item #04355 (Rochester Regional Office)
+18
+05/24/22
+08/08/22
+State Comptroller, Office of the 
+Monroe
+
+105484
+Nurse 2
+16
+05/24/22
+08/23/22
+Children & Family Services, Office of 
+Orange
+
+105510
+Infection Control Nurse, Buffalo Psychiatric Center, P22883
+19
+05/24/22
+08/15/22
+Mental Health, Office of
+Erie
+
+105539
+Nurse 1
+14
+05/24/22
+08/23/22
+Children & Family Services, Office of 
+Tompkins
+
+105583
+Thruway Maintenance Worker (Trainee)
+NS
+05/25/22
+07/31/22
+Thruway Authority
+Cayuga
+
+105625
+Research Scientist 4 – Nathan S. Kline Research Institute– Center for Biomedical Imaging and Neuromodulation (C-BIN), P22890
+27
+05/26/22
+08/05/22
+Mental Health, Office of
+Rockland
+
+105684
+Health Information Management Technician 1
+13
+05/27/22
+08/19/22
+People With Developmental Disabilities, Office for
+Franklin
+
+105700
+Certified Nursing Assistant at Montrose   
+08
+05/27/22
+12/31/22
+Health, Department of 
+Westchester
+
+105703
+Nurse 2 Psy/Nurse 1 Hourly (Russell E. Blaisdell ATC)
+Hourly
+05/27/22
+03/31/23
+Addiction Services and Supports, Office of 
+Rockland
+
+105706
+Nurse 2 Psychiatric or Nurse 1 Hourly (Margaret A. Stutzman ATC)
+Hourly
+05/27/22
+03/31/23
+Addiction Services and Supports, Office of 
+Erie
+
+105708
+Nurse 2 Psychiatric or Nurse 1 (CK Post ATC)
+Hourly
+05/27/22
+03/31/23
+Addiction Services and Supports, Office of 
+Suffolk
+
+105723
+Physical Therapy Assistant 1 or 2 
+14
+05/27/22
+08/19/22
+People With Developmental Disabilities, Office for
+Hamilton
+
+105742
+Medical Specialist 2
+38
+05/27/22
+11/25/22
+People With Developmental Disabilities, Office for
+Franklin
+
+105767
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 (Region 9)
+06
+05/31/22
+12/31/22
+Transportation, Department of 
+Broome
+
+105769
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 (Region 9)
+06
+05/31/22
+12/31/22
+Transportation, Department of 
+Chenango
+
+105771
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 (Region 9)
+06
+05/31/22
+12/31/22
+Transportation, Department of 
+Delaware
+
+105773
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 (Region 9)
+06
+05/31/22
+12/31/22
+Transportation, Department of 
+Otsego
+
+105775
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 (Region 9)
+06
+05/31/22
+12/31/22
+Transportation, Department of 
+Schoharie
+
+105777
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 (Region 9)
+06
+05/31/22
+12/31/22
+Transportation, Department of 
+Sullivan
+
+105779
+Highway Maintenance Worker Trainee 1/Trainee 2/Highway Maintenance Worker 1 (Region 9)
+06
+05/31/22
+12/31/22
+Transportation, Department of 
+Tioga
+
+105812
+BSC Representative 1
+11
+05/31/22
+09/01/22
+General Services, Office of 
+Albany
+
+105888
+Engineer- Mechanical - NYC
+NS
+06/01/22
+08/04/22
+DASNY - Dormitory Authority of the State of New York
+New York
+
+105922
+Secure Care Treatment Aide 1, Western New York Children's Psychiatric Center, P22918
+11
+06/01/22
+08/08/22
+Mental Health, Office of
+Erie
+
+105948
+Addictions Counselor Assistant (CK Post ATC) HOURLY
+Hourly
+06/02/22
+06/02/23
+Addiction Services and Supports, Office of 
+Suffolk
+
+105975
+Psychiatrist 2, Children and Youth, Elmira Psychiatric Center, P22936 
+38
+06/02/22
+12/20/22
+Mental Health, Office of
+Chemung
+
+105994
+Medical Specialist 2
+38
+06/02/22
+11/25/22
+People With Developmental Disabilities, Office for
+Franklin
+
+106008
+Secure Care Treatment Aide 1, Secure Care Treatment and Rehabilitation Center, STARC, Bridgeview, P22944
+11
+06/02/22
+09/01/22
+Mental Health, Office of
+St Lawrence
+
+106042
+Plant Utilities Engineer 1 
+14
+06/03/22
+08/05/22
+People With Developmental Disabilities, Office for
+Schenectady
+
+106074
+Psychiatrist 2
+38
+06/03/22
+12/31/22
+People With Developmental Disabilities, Office for
+Schenectady
+
+106089
+Assistant Solicitor General - Division of Appeals & Opinions Albany (A&O_ALB_ASG_2022)
+NS
+06/03/22
+12/31/22
+Attorney General, Office of the
+Albany
+
+106134
+Dental Hygienist
+12
+06/06/22
+08/01/22
+Corrections and Community Supervision, Department of 
+Oneida
+
+106138
+Senior Utilization Review Nurse
+NS
+06/06/22
+10/01/22
+Corrections and Community Supervision, Department of 
+Oneida
+
+106229
+Dentist 1, Mid-Hudson Forensic Psychiatric Center, P22957
+30
+06/07/22
+08/17/22
+Mental Health, Office of
+Orange
+
+106251
+Investigator
+NS
+06/07/22
+12/08/22
+Corrections and Community Supervision, Department of 
+To Be Determined
+
+106257
+Security Services Assistant 1
+06
+06/07/22
+08/31/22
+Military and Naval Affairs, Division of 
+Albany
+
+106265
+Regional General Mechanic
+14
+06/07/22
+08/31/22
+Military and Naval Affairs, Division of 
+Bronx
+
+106307
+Youth Recreation Specialist 1
+14
+06/08/22
+08/01/22
+Children & Family Services, Office of 
+Columbia
+
+106316
+Recreation Therapist, Elmira Psychiatric Center, P22960
+14
+06/08/22
+09/02/22
+Mental Health, Office of
+Chemung
+
+106340
+Assistant Deputy Attorney General, Organized Crime Task Force White Plains (OCTF_WP_ADAG_3474)
+NS
+06/08/22
+08/05/22
+Attorney General, Office of the
+New York
+
+106348
+C220088 - Facility Operations Assistant 2 (Grounds) - Campus Operations
+09
+06/08/22
+12/07/22
+University at Buffalo
+Erie
+
+106386
+Addictions Counselor Assistant - HOURLY (Russell E. Blaisdell ATC)
+Hourly
+06/09/22
+07/31/22
+Addiction Services and Supports, Office of 
+Rockland
+
+106392
+Plant Utilities Engineer 1
+14
+06/09/22
+08/09/22
+Corrections and Community Supervision, Department of 
+Clinton
+
+106439
+Tandem Tractor Trailer Operator, Central Office;
+12
+06/09/22
+07/31/22
+Mental Health, Office of
+Rockland
+
+106441
+Clinical Physician 1 or 2 OR Medical Specialist 1 (Kingsboro Addiction Treatment Center)
+36
+06/09/22
+08/31/22
+Addiction Services and Supports, Office of 
+Kings
+
+106475
+Licensed Practical Nurse (Hourly) - R. C. Ward Addiction Treatment Center
+NS
+06/10/22
+06/10/23
+Addiction Services and Supports, Office of 
+Orange
+
+106492
+Dietitian 2, Bronx Psychiatric Center, P22986
+18
+06/10/22
+08/02/22
+Mental Health, Office of
+Bronx
+
+106502
+Rehabilitation Counselor 2, Central New York Psychiatric Center – Gouverneur Satellite Unit, P22989
+19
+06/10/22
+08/22/22
+Mental Health, Office of
+St Lawrence
+
+106586
+Licensed Psychologist, Central New York Psychiatric Center, Marcy, 22993
+25
+06/13/22
+08/02/22
+Mental Health, Office of
+Oneida
+
+106624
+Maintenance Assistant 
+09
+06/14/22
+08/31/22
+Thruway Authority
+Greene
+
+106652
+Nurse 2
+NS
+06/14/22
+09/01/22
+Children & Family Services, Office of 
+Columbia
+
+106660
+Sr. Application Solution Developer
+NS
+06/14/22
+08/04/22
+DASNY - Dormitory Authority of the State of New York
+Albany
+
+106718
+Nurse 2
+NS
+06/15/22
+09/01/22
+Children & Family Services, Office of 
+Orange
+
+106723
+Sr. Field Representative NYC - Construction
+NS
+06/15/22
+08/04/22
+DASNY - Dormitory Authority of the State of New York
+New York
+
+106775
+Assistant Counsel, Box OP-1408/21144
+NS
+06/15/22
+12/02/23
+Education Department, State
+Bronx
+
+106821
+Nurse 2
+NS
+06/16/22
+09/16/22
+Children & Family Services, Office of 
+Tompkins
+
+106843
+Licensed Master Social Worker 2
+20
+06/16/22
+08/16/22
+Corrections and Community Supervision, Department of 
+Clinton
+
+106845
+TEMPORARY SEASONAL - Maintenance Helper - Ronkonkoma - Anticipated duration of employment thru 10/19/22
+Hourly
+06/16/22
+08/31/22
+Military and Naval Affairs, Division of 
+Suffolk
+
+106847
+TEMPORARY SEASONAL - Maintenance Helper - Staten Island CSMS - Anticipated duration of employment thru 10/19/2022
+Hourly
+06/16/22
+08/31/22
+Military and Naval Affairs, Division of 
+Richmond
+
+106849
+TEMPORARY SEASONAL - Maintenance Helper - Fort Drum (MATES) - Anticipated duration of employment thru 10/19/2022
+Hourly
+06/16/22
+08/31/22
+Military and Naval Affairs, Division of 
+Jefferson
+
+106851
+TEMPORARY SEASONAL - Maintenance Helper - Latham HQ - Anticipated duration of employment thru 10/19/2022
+Hourly
+06/16/22
+08/31/22
+Military and Naval Affairs, Division of 
+Albany
+
+106886
+Research Scientist 4 - Division of Systems Neuroscience, New York State Psychiatric Institute, P23016
+27
+06/17/22
+09/29/22
+Mental Health, Office of
+New York
+
+106961
+Computer Operator, Ref #16493 (Provisional & Permanent Opportunities)
+10
+06/21/22
+10/03/22
+Information Technology Services, Office of
+Albany
+
+106963
+Project Manager, Loans & Grants
+NS
+06/21/22
+08/31/22
+Empire State Development, NYS 
+New York
+
+106995
+Addictions Counselor Assistant Hourly Overnights- South Beach ATC
+Hourly
+06/21/22
+08/31/22
+Addiction Services and Supports, Office of 
+Richmond
+
+107022
+Youth Support Assistant (Hourly)
+NS
+06/22/22
+07/31/22
+Children & Family Services, Office of 
+Tompkins
+
+107044
+RN2 Registered Nurse 2  RN 2  EOA# 22-105R  Newburgh
+16
+06/22/22
+01/07/23
+People With Developmental Disabilities, Office for
+Orange
+
+107046
+Associate Psychologist, Central New York Psychiatric Center, Marcy, P23012
+23
+06/22/22
+08/05/22
+Mental Health, Office of
+Oneida
+
+107090
+Library Clerk 2 Part Time
+NS
+06/23/22
+12/31/22
+Corrections and Community Supervision, Department of 
+Seneca
+
+107101
+Project Manager, Southern Tier RO
+NS
+06/23/22
+08/31/22
+Empire State Development, NYS 
+Broome
+
+107116
+Dietitian 2, Creedmoor Psychiatric Center, P23018
+18
+06/23/22
+08/05/22
+Mental Health, Office of
+Queens
+
+107124
+Psychologist 2
+23
+06/23/22
+09/22/22
+Children & Family Services, Office of 
+Tompkins
+
+107130
+Cleaner, Rockland Clidren's Psychiatric Center, Cleaner, P23022
+05
+06/23/22
+08/15/22
+Mental Health, Office of
+Rockland
+
+107187
+Teacher 2, 3, 4
+13
+06/24/22
+07/31/22
+Children & Family Services, Office of 
+Tompkins
+
+107193
+Youth Recreation Specialist 1
+14
+06/24/22
+07/31/22
+Children & Family Services, Office of 
+Tompkins
+
+107211
+Cook
+11
+06/24/22
+07/31/22
+Children & Family Services, Office of 
+Tompkins
+
+107218
+Licensed Master Social Worker 2, Secure Treatment and Rehabilitation Center, STARC, Bridgeview, P23032
+20
+06/24/22
+08/16/22
+Mental Health, Office of
+St Lawrence
+
+107226
+Licensed Master Social Worker 2, Central New York Psychiatric Center, Attica Satellite Unit, P23036
+20
+06/24/22
+08/29/22
+Mental Health, Office of
+Wyoming
+
+107230
+Licensed Master Social Worker 2, Central New York Psychiatric Center, Green Haven Satellite Unit, P23038
+20
+06/24/22
+09/01/22
+Mental Health, Office of
+Dutchess
+
+107236
+Rehabilitation Counselor 2, Central New York Psychiatric Center – Elmira Satellite Unit, P23041
+19
+06/24/22
+08/04/22
+Mental Health, Office of
+Chemung
+
+107284
+Food Service Worker 1, Secure Treatment and Rehabilitation Center, STARC, Oakview, Marcy, Food Service, P22694
+05
+06/27/22
+08/04/22
+Mental Health, Office of
+Oneida
+
+107293
+Director, Internal Audit
+NS
+06/27/22
+09/30/22
+Military and Naval Affairs, Division of 
+Albany
+
+107302
+Thruway Maintenance Worker (Trainee)
+NS
+06/27/22
+08/31/22
+Thruway Authority
+Montgomery
+
+107308
+Assistant Attorney General, Civil Rights Bureau(CRI_NYC_AAG_3480)
+NS
+06/27/22
+08/05/22
+Attorney General, Office of the
+New York
+
+107340
+Information Technology Specialist 2 (Programming) – Tax Modernization
+NS
+06/27/22
+08/01/22
+Information Technology Services, Office of
+Albany
+
+107354
+Bridge Repair Assistant /Bridge Repair Assistant Trainee 1/Bridge Repair Assistant Trainee 2 (Region 4- Pittsford)
+NS
+06/27/22
+08/29/22
+Transportation, Department of 
+Monroe
+
+107356
+Bridge Repair Assistant /Bridge Repair Assistant Trainee 1/Bridge Repair Assistant Trainee 2 (Region 4- Batavia)
+NS
+06/27/22
+08/29/22
+Transportation, Department of 
+Genesee
+
+107380
+Nurse 1 / Nurse 2, Psychiatric, Capital District Psychiatric Center, NP22127
+16
+06/28/22
+09/29/22
+Mental Health, Office of
+Albany
+
+107387
+Nurse Practitioner (Psychiatry), Bronx Psychiatric Center, NP22129
+24
+06/28/22
+09/29/22
+Mental Health, Office of
+Bronx
+
+107391
+Nurse Practitioner (Psychiatry), Greater Binghamton Health Center, NP22077
+24
+06/28/22
+09/29/22
+Mental Health, Office of
+Broome
+
+107394
+Nurse Practitioner (Psychiatry), Capital District Psychiatric Center, NP22126
+24
+06/28/22
+09/29/22
+Mental Health, Office of
+Albany
+
+107409
+Nurse 1 / Nurse 2, Psychiatric, Elmira Psychiatric Center, NP22132
+16
+06/28/22
+09/29/22
+Mental Health, Office of
+Chemung
+
+107414
+Nurse 1 / Nurse 2, Psychiatric, Elmira Children and Youth Psychiatric Center, NP22134
+16
+06/28/22
+09/29/22
+Mental Health, Office of
+Chemung
+
+107418
+Nurse 1 / Nurse 2, Psychiatric, Western New York Children's Psychiatric Center, NP22136
+16
+06/28/22
+09/29/22
+Mental Health, Office of
+Erie
+
+107421
+Nurse 1 / Nurse 2, Psychiatric, Kingsboro Psychiatric Center, NP22138
+16
+06/28/22
+09/29/22
+Mental Health, Office of
+Kings
+
+107431
+Nurse 1 / Nurse 2, Psychiatric, Rochester Psychiatric Center, NP22140
+16
+06/28/22
+09/29/22
+Mental Health, Office of
+Monroe
+
+107438
+Addictions Counselor Assistant - HOURLY (Creedmoor ATC)
+Hourly
+06/28/22
+08/31/22
+Addiction Services and Supports, Office of 
+Queens
+
+107445
+Nurse 1 / Nurse 2, Psychiatric, Washington Heights Psychiatric Center, NP22143
+16
+06/28/22
+09/29/22
+Mental Health, Office of
+New York
+
+107447
+Nurse 1 / Nurse 2, Psychiatric, Mohawk Valley Psychiatric Center, NP22145
+16
+06/28/22
+09/29/22
+Mental Health, Office of
+Oneida
+
+107450
+Nurse 1, Hutchings Psychiatric Center, NP22147
+14
+06/28/22
+09/29/22
+Mental Health, Office of
+Onondaga
+
+107460
+Nurse 1 / Nurse 2, Psychiatric, Hutchings Children and Youth Psychiatric Center, NP22149
+16
+06/29/22
+09/29/22
+Mental Health, Office of
+Onondaga
+
+107463
+Nurse Practitioner (Psychiatry), Manhattan Psychiatric Center, NP22151
+24
+06/29/22
+09/29/22
+Mental Health, Office of
+New York
+
+107467
+Nurse 1 /Nurse 2, Psychiatric, Kirby Forensic Psychiatric Center, NP22153
+16
+06/29/22
+09/29/22
+Mental Health, Office of
+New York
+
+107469
+Nurse 1 / Nurse 2, Psychiatric, South Beach Psychiatric Center, NP22155
+16
+06/29/22
+09/29/22
+Mental Health, Office of
+Richmond
+
+107472
+Nurse Practitioner (Psychiatry), Rockland Psychiatric Center, NP22157
+24
+06/29/22
+09/29/22
+Mental Health, Office of
+Rockland
+
+107479
+Nurse 2 Psychiatric, Mohawk Valley Psychiatric Center – Children and Youth, NP22159
+16
+06/29/22
+09/29/22
+Mental Health, Office of
+Oneida
+
+107485
+Nurse 1 / Nurse 2, Psychiatric, St. Lawrence Psychiatric Center, NP22160
+16
+06/29/22
+09/29/22
+Mental Health, Office of
+St Lawrence
+
+107489
+Nurse 1, St. Lawrence Psychiatric Center Children and Youth, NP22162
+14
+06/29/22
+09/29/22
+Mental Health, Office of
+St Lawrence
+
+107493
+Nurse 1 / Nurse 2, Psychiatric, Mid-Hudson Forensic Psychiatric Center, NP22164
+16
+06/29/22
+09/29/22
+Mental Health, Office of
+Orange
+
+107495
+Nurse Practitioner (Psychiatry), New York City Children's Center, NP22166
+24
+06/29/22
+09/29/22
+Mental Health, Office of
+Queens
+
+107497
+ Grant Program Assistant(2 Positions)
+NS
+06/29/22
+08/04/22
+DASNY - Dormitory Authority of the State of New York
+Albany
+
+107499
+Nurse Practitioner (Psychiatry), Rockland Children’s Psychiatric Center, NP22169
+24
+06/29/22
+09/29/22
+Mental Health, Office of
+Rockland
+
+107501
+Nurse Practitioner (Psychiatric), Pilgrim Psychiatric Center, NP22170
+24
+06/29/22
+09/29/22
+Mental Health, Office of
+Suffolk
+
+107504
+Nurse 2 Psychiatric, Secure Treatment and Rehabilitation Center - Bridgeview - NP22172
+16
+06/29/22
+09/29/22
+Mental Health, Office of
+St Lawrence
+
+107507
+Nurse Practitioner (Psychiatry), Western New York Children's Psychiatric Center, NP22174
+24
+06/29/22
+09/29/22
+Mental Health, Office of
+Erie
+
+107510
+Nurse Practitioner (Psychiatry), Mohawk Valley Psychiatric Center, NP22176
+24
+06/29/22
+09/29/22
+Mental Health, Office of
+Oneida
+
+107514
+Nurse Practitioner (Psychiatry), Sagamore Children's Psychiatric Center, NP22178
+24
+06/29/22
+09/29/22
+Mental Health, Office of
+Suffolk
+
+107521
+Medical Specialist 1/2, St. Lawrence Psychiatric Center, Children and Youth, Physician, PP22086
+38
+06/29/22
+09/29/22
+Mental Health, Office of
+St Lawrence
+
+107524
+Medical Specialist 2, Creedmoor Psychiatric Center, Physician, PP22088
+38
+06/29/22
+09/29/22
+Mental Health, Office of
+Queens
+
+107528
+Medical Specialist 1, Central New York Psychiatric Center, Marcy, Physician, PP22089
+35
+06/29/22
+09/29/22
+Mental Health, Office of
+Oneida
+
+107537
+Medical Specialist 2, Greater Binghamton Health Center, Physician, PP22091
+38
+06/29/22
+09/29/22
+Mental Health, Office of
+Broome
+
+107539
+Medical Specialist 2, Buffalo Psychiatric Center, Physician, PP22093
+38
+06/29/22
+09/29/22
+Mental Health, Office of
+Erie
+
+107542
+Psychiatrist 1 / Psychiatrist 2, Children and Youth, Sagamore Psychiatric Center, PP22095
+38
+06/29/22
+09/29/22
+Mental Health, Office of
+Suffolk
+
+107545
+Psychiatrist 1 and Psychiatrist 2, Central New York Psychiatric Center, Marcy Inpatient Units Only, PP22097
+38
+06/29/22
+09/29/22
+Mental Health, Office of
+Oneida
+
+107549
+Psychiatrist 1 and Psychiatrist 2, Bronx Psychiatric Center - Spanish Language, PP22099
+38
+06/29/22
+09/29/22
+Mental Health, Office of
+Bronx
+
+107557
+Telepsychiatry Psychiatrist Positions, Rockland Psychiatric Center, PP22101
+38
+06/29/22
+09/29/22
+Mental Health, Office of
+Rockland
+
+107560
+Psychiatrist 1 and Psychiatrist 2, Capital District Psychiatric Center, PP22103   
+38
+06/29/22
+09/29/22
+Mental Health, Office of
+Albany
+
+107562
+Deputy Bureau Chief - Investor Protection Bureau NYC (IPB_ NYC_DBC_3482)
+NS
+06/29/22
+08/12/22
+Attorney General, Office of the
+New York
+
+107564
+Psychiatrist 1 and Psychiatrist 2, Rochester Psychiatric Center, PP22106
+38
+06/29/22
+09/29/22
+Mental Health, Office of
+Monroe
+
+107567
+Psychiatrist 1 and Psychiatrist 2, South Beach Psychiatric Center, PP22108
+38
+06/29/22
+09/29/22
+Mental Health, Office of
+Richmond
+
+107572
+Psychiatrist 1 and Psychiatrist 2, Mohawk Valley Psychiatric Center, PP22110
+38
+06/29/22
+09/29/22
+Mental Health, Office of
+Oneida
+
+107575
+Psychiatrist 1 and Psychiatrist 2, Creedmoor Psychiatric Center, (Full-Time and Part-Time positions available) PP22112
+38
+06/29/22
+09/29/22
+Mental Health, Office of
+Queens
+
+107578
+Psychiatrist 1 and Psychiatrist 2, Buffalo Psychiatric Center, PP22114
+38
+06/29/22
+09/29/22
+Mental Health, Office of
+Erie
+
+107581
+Clinical Physician 1 / Clinical Physician 2, St Lawrence Psychiatric Center, Physician, PP22116
+34
+06/29/22
+09/29/22
+Mental Health, Office of
+St Lawrence
+
+107583
+Clinical Physician 2, Rockland Psychiatric Center, Physician, PP22080
+36
+06/29/22
+09/29/22
+Mental Health, Office of
+Rockland
+
+107585
+Clinical Physician 2, Rockland Psychiatric Center, Physician, PP22118
+36
+06/29/22
+09/29/22
+Mental Health, Office of
+Rockland
+
+107588
+Forensic Telepsychiatry, Central New York Psychiatric Center – Albany VTC Unit, PP22120
+38
+06/29/22
+09/29/22
+Mental Health, Office of
+Albany
+
+107591
+Psychiatrist 1 - 2, Children and Youth, New York City Children's Center, Queens Campus, PP22122
+38
+06/29/22
+09/29/22
+Mental Health, Office of
+Queens
+
+107614
+Helpdesk Support
+NS
+06/30/22
+08/18/22
+DASNY - Dormitory Authority of the State of New York
+Albany
+
+107630
+Print Equipment/Mainframe Operator (Computer Operator)(3rd Shift - Night) - Item #08211& #08215
+10
+06/30/22
+08/02/22
+State Comptroller, Office of the 
+Rensselaer
+
+107641
+ Financial Services Specialists 1, 2 and 4 (Cyber Security)
+27
+06/30/22
+08/15/22
+Financial Services, Department of
+To Be Determined
+
+107667
+Facility Assistant/Digital Printing
+05
+06/30/22
+08/12/22
+Senate, NYS
+New York
+
+107678
+Professional Engineer 1 (Environmental), Central Office;
+24
+07/01/22
+07/31/22
+Mental Health, Office of
+Albany
+
+107696
+Cleaner, Rockland Clidren's Psychiatric Center, Part-Time, Cleaner, P23056
+05
+07/01/22
+08/02/22
+Mental Health, Office of
+Rockland
+
+107709
+Senior Financial Services Regulatory Policy and Accounting Officer
+665
+07/01/22
+07/31/22
+Financial Services, Department of
+New York
+
+107732
+Youth Support Specialist (Hourly)
+NS
+07/01/22
+08/01/22
+Children & Family Services, Office of 
+Oneida
+
+107757
+Kirby Forensic Psychiatric Center, Security Hospital Treatment Assistant (SHTA)– Direct Care Position, P23065
+14
+07/05/22
+08/09/22
+Mental Health, Office of
+New York
+
+107762
+Central New York Psychiatric Center, Security Hospital Treatment Assistant (SHTA)– Direct Care Position, P23066
+14
+07/05/22
+08/09/22
+Mental Health, Office of
+Oneida
+
+107775
+Special Litigation Counsel, Litigation Bureau (LIT_NYC_SLC_3483)
+NS
+07/05/22
+08/19/22
+Attorney General, Office of the
+New York
+
+107785
+Assistant Attorney General, Law Enforcement Misconduct Investigative Office (LEM_BUF_AAG_3484)
+NS
+07/05/22
+08/12/22
+Attorney General, Office of the
+Erie
+
+107793
+Motor Vehicle Operator, Buffalo Psychiatric Center, P23070
+07
+07/05/22
+08/03/22
+Mental Health, Office of
+Erie
+
+107806
+Plant Utilities Engineer 1
+14
+07/05/22
+08/06/22
+Corrections and Community Supervision, Department of 
+Greene
+
+107827
+Psychiatrist 3, Rockland Psychiatric Center. P23075
+668
+07/06/22
+08/12/22
+Mental Health, Office of
+Rockland
+
+107829
+Licensed Master Social Worker 1, Kingsboro Psychiatric Center, Mary Brooks, P23076
+18
+07/06/22
+08/22/22
+Mental Health, Office of
+Kings
+
+107833
+Youth Support Assistant (Hourly)
+NS
+07/06/22
+08/06/22
+Children & Family Services, Office of 
+Oneida
+
+107859
+Licensed Mental Health Counselor, Secure Treatment and Rehabilitation Center, STARC - Oakview, P23084
+19
+07/06/22
+09/29/22
+Mental Health, Office of
+Oneida
+
+107864
+RN2 Registered Nurse  RN 2 EOA# 22-039R  Orange County evening
+16
+07/06/22
+01/07/23
+People With Developmental Disabilities, Office for
+Orange
+
+107868
+Licensed Mental Health Counselor, St. Lawrence Psychiatric Center, P23087
+19
+07/06/22
+12/29/22
+Mental Health, Office of
+St Lawrence
+
+107871
+RN2 Temp Hourly Registered Nurse RN 2  EOA# 22-045R
+16
+07/06/22
+01/07/23
+People With Developmental Disabilities, Office for
+Orange
+
+107874
+RN2 Registered Nurse 2  RN 2   EOA# 21-019R
+16
+07/06/22
+01/07/23
+People With Developmental Disabilities, Office for
+Westchester
+
+107876
+Licensed Mental Health Counselor, Office of Mental Health Psychiatric Centers, Statewide,  P23090
+19
+07/06/22
+08/12/22
+Mental Health, Office of
+To Be Determined
+
+107878
+Youth Support Specialist (Hourly)
+NS
+07/06/22
+07/31/22
+Children & Family Services, Office of 
+Tompkins
+
+107885
+Licensed Mental Health Counselor, Central New York Psychiatric Center, Upstate Satellite Unit, P23093
+19
+07/06/22
+08/31/22
+Mental Health, Office of
+Franklin
+
+107888
+Clinical Physician
+36
+07/06/22
+08/02/22
+Corrections and Community Supervision, Department of 
+Oneida
+
+107893
+Service & Repair Mechanic 
+12
+07/06/22
+09/01/22
+Corrections and Community Supervision, Department of 
+Washington
+
+107907
+Assistant Counsel, Box OP-1456/21250
+NS
+07/06/22
+12/02/23
+Education Department, State
+Albany
+
+107920
+Office Assistant 1 (Stores  Mail)
+06
+07/07/22
+08/01/22
+Corrections and Community Supervision, Department of 
+Oneida
+
+107930
+Portfolio Operations Specialist (multiple positions)
+NS
+07/07/22
+10/07/22
+Insurance Fund, State 
+New York
+
+107935
+Highway Maintenance Worker 1 / Tr 2 / Tr 1 (Region 1)
+06
+07/07/22
+12/31/22
+Transportation, Department of 
+Albany
+
+107937
+Service and Repair Mechanic Motor Equipment Region 1 -Albany Co
+12
+07/07/22
+12/31/22
+Transportation, Department of 
+Albany
+
+107939
+Highway Maintenance Worker 1 / Tr 2 / Tr 1 (Region 1)
+06
+07/07/22
+12/31/22
+Transportation, Department of 
+Rensselaer
+
+107941
+Service and Repair Mechanic Motor Equipment( Region 1 -Essex Co).
+12
+07/07/22
+12/31/22
+Transportation, Department of 
+Essex
+
+107943
+Highway Maintenance Worker 1 / Tr 2 / Tr 1 (Region 1)
+06
+07/07/22
+12/31/22
+Transportation, Department of 
+Warren
+
+107945
+Service and Repair Mechanic Motor Equipment (Region 1-Greene Co) 
+12
+07/07/22
+12/31/22
+Transportation, Department of 
+Greene
+
+107947
+Service and Repair Mechanic Motor Equipment( Region 1-Saratoga Co) 
+12
+07/07/22
+12/31/22
+Transportation, Department of 
+Saratoga
+
+107949
+Service and Repair Mechanic Motor Equipment (Region 1-Warren Co. ) 
+12
+07/07/22
+12/31/22
+Transportation, Department of 
+Warren
+
+107952
+Licensed Practical Nurse, Kingsboro Psychiatric Center, Road to Success, P23098
+10
+07/07/22
+08/30/22
+Mental Health, Office of
+Kings
+
+107963
+Director of Immigrant Workers Services - New York City
+663
+07/07/22
+08/08/22
+Labor, Department of 
+New York
+
+107968
+Licensed Master Social Worker 2, Western New York Children's Psychiatric Center, P23102
+20
+07/07/22
+08/19/22
+Mental Health, Office of
+Erie
+
+107991
+Education Counselor
+19
+07/07/22
+08/31/22
+Corrections and Community Supervision, Department of 
+Washington
+
+108050
+Dentist 1
+30
+07/08/22
+09/01/22
+Corrections and Community Supervision, Department of 
+Oneida
+
+108074
+Youth Counselor 1
+18
+07/08/22
+08/08/22
+Children & Family Services, Office of 
+Tompkins
+
+108092
+Administrative Assistant 1
+11
+07/11/22
+08/30/22
+Corrections and Community Supervision, Department of 
+Westchester
+
+108099
+Associate Psychologist 
+23
+07/11/22
+10/15/22
+People With Developmental Disabilities, Office for
+Kings
+
+108101
+Associate Psychologist 
+23
+07/11/22
+10/15/22
+People With Developmental Disabilities, Office for
+Schenectady
+
+108103
+Associate Psychologist 
+23
+07/11/22
+10/15/22
+People With Developmental Disabilities, Office for
+Monroe
+
+108106
+Associate Psychologist 
+23
+07/11/22
+10/15/22
+People With Developmental Disabilities, Office for
+Suffolk
+
+108108
+Associate Psychologist 
+23
+07/11/22
+10/15/22
+People With Developmental Disabilities, Office for
+Richmond
+
+108110
+Associate Psychologist 
+23
+07/11/22
+10/15/22
+People With Developmental Disabilities, Office for
+Dutchess
+
+108117
+Medicaid Redesign Analyst 1 - 99946
+18
+07/11/22
+08/29/22
+Health, Department of 
+Albany
+
+108133
+Cleaner (Hourly)
+NS
+07/11/22
+08/15/22
+Children & Family Services, Office of 
+Orange
+
+108141
+Medical Specialist 2 - Broome
+38
+07/11/22
+12/31/22
+People With Developmental Disabilities, Office for
+Broome
+
+108143
+Deputy Counsel
+NS
+07/11/22
+08/01/22
+Executive Chamber of New York State
+Albany
+
+108145
+Senior Counsel/Assistant Counsel
+NS
+07/11/22
+08/01/22
+Executive Chamber of New York State
+New York
+
+108149
+Psychiatrist 2 - Broome
+38
+07/11/22
+12/31/22
+People With Developmental Disabilities, Office for
+Broome
+
+108160
+Associate in Education of Children with Disabilities, Box PIMS-566/05055
+26
+07/12/22
+08/02/22
+Education Department, State
+Albany
+
+108163
+Youth Recreation Specialist 1
+14
+07/12/22
+08/01/22
+Children & Family Services, Office of 
+Monroe
+
+108166
+Vocational Specialist 1
+18
+07/12/22
+08/08/22
+Children & Family Services, Office of 
+Orange
+
+108180
+Senior Engineering Technician/Engineering Technician Trainee (Region 3)
+13
+07/12/22
+08/11/22
+Transportation, Department of 
+Onondaga
+
+108208
+Addictions Counselor Assistant (CK Post ATC)
+11
+07/12/22
+08/06/22
+Addiction Services and Supports, Office of 
+Suffolk
+
+108216
+Youth Support Specialist (Perm)
+14
+07/12/22
+08/17/22
+Children & Family Services, Office of 
+Columbia
+
+108220
+Youth Recreation Specialist 2
+16
+07/12/22
+08/01/22
+Children & Family Services, Office of 
+Monroe
+
+108233
+Housekeeping/Floor Stripping/Waxing Position
+05
+07/12/22
+12/01/22
+College of Optometry
+New York
+
+108238
+Contract Management Specialist 1, Contract Management Specialist Trainee 1, Box CFO-539/60286
+18
+07/12/22
+08/02/22
+Education Department, State
+Albany
+
+108243
+Electrical Engineer
+25
+07/13/22
+09/30/22
+State University Construction Fund
+Albany
+
+108245
+Construction Project Manager
+23
+07/13/22
+09/30/22
+State University Construction Fund
+Albany
+
+108250
+Project Assistant, (Three Positions), Box OHE-913/51554, 51555, 51556
+NS
+07/13/22
+07/13/24
+Education Department, State
+Albany
+
+108254
+Service and Repair Mechanic (Motor Equipment) 
+12
+07/13/22
+07/31/22
+Thruway Authority
+Rockland
+
+108269
+Standards Compliance Analyst 1
+18
+07/13/22
+08/15/22
+Children & Family Services, Office of 
+Rensselaer
+
+108272
+LPN  Licensed Practical Nurse  EOA# 22-237
+10
+07/13/22
+01/07/23
+People With Developmental Disabilities, Office for
+Rockland
+
+108275
+RN2  Registered Nurse 2  RN 2  EOA# 22-040R   Night
+16
+07/13/22
+01/07/23
+People With Developmental Disabilities, Office for
+Orange
+
+108285
+Psychologist 2, Secure Treatment and Rehabilitaion Center, STARC, Oakview, P23107
+23
+07/13/22
+08/03/22
+Mental Health, Office of
+Oneida
+
+108302
+DDSCTA 1/Trainee (Developmental Disabilities Secure Care Treatment Aide)
+11
+07/13/22
+10/15/22
+People With Developmental Disabilities, Office for
+Franklin
+
+108304
+Direct Support Assistant
+09
+07/13/22
+10/15/22
+People With Developmental Disabilities, Office for
+Kings
+
+108306
+Direct Support Assistant
+09
+07/13/22
+10/15/22
+People With Developmental Disabilities, Office for
+Fulton
+
+108308
+Direct Support Assistant
+09
+07/13/22
+10/15/22
+People With Developmental Disabilities, Office for
+Rensselaer
+
+108311
+Direct Support Assistant
+09
+07/13/22
+10/15/22
+People With Developmental Disabilities, Office for
+Schenectady
+
+108313
+NYC Regional Coordinator (Special Assistant)
+NS
+07/13/22
+09/06/22
+Children & Family Services, Office of 
+New York
+
+108316
+Direct Support Assistant
+09
+07/13/22
+10/15/22
+People With Developmental Disabilities, Office for
+Washington
+
+108318
+Direct Support Assistant
+09
+07/13/22
+10/15/22
+People With Developmental Disabilities, Office for
+Livingston
+
+108320
+Direct Support Assistant
+09
+07/13/22
+10/15/22
+People With Developmental Disabilities, Office for
+Ontario
+
+108323
+Direct Support Assistant
+09
+07/13/22
+10/15/22
+People With Developmental Disabilities, Office for
+Seneca
+
+108330
+Nurse 2 NYS Veterans Home at Montrose
+16
+07/13/22
+12/31/22
+Health, Department of 
+Westchester
+
+108334
+Certified Nursing Assistant
+08
+07/14/22
+12/31/22
+Health, Department of 
+Genesee
+
+108336
+Digital Forensic Manager - Upstate Regional Office
+NS
+07/14/22
+08/14/22
+State Inspector General, Office of 
+Albany
+
+108338
+Food Service Worker 2
+09
+07/14/22
+09/01/22
+Health, Department of 
+Genesee
+
+108344
+Direct Support Assistant
+09
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Wayne
+
+108346
+Direct Support Assistant
+09
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Yates
+
+108348
+Direct Support Assistant
+09
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Rockland
+
+108351
+Direct Support Assistant
+09
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Westchester
+
+108353
+Direct Support Assistant
+09
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Suffolk
+
+108355
+Direct Support Assistant
+09
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+New York
+
+108358
+Direct Support Assistant
+09
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Columbia
+
+108360
+Direct Support Assistant
+09
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Greene
+
+108363
+Direct Support Assistant
+09
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Ulster
+
+108365
+Direct Support Assistant
+09
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Allegany
+
+108367
+Direct Support Assistant
+09
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Erie
+
+108369
+Direct Support Assistant
+09
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Niagara
+
+108371
+Direct Support Assistant
+09
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Broome
+
+108373
+Direct Support Assistant
+09
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Delaware
+
+108377
+Direct Support Assistant
+09
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Otsego
+
+108379
+Direct Support Assistant
+09
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Tompkins
+
+108381
+Direct Support Assistant
+09
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Cortland
+
+108383
+Direct Support Assistant
+09
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Lewis
+
+108385
+Direct Support Assistant
+09
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Oneida
+
+108388
+Direct Support Assistant
+09
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Oswego
+
+108390
+Direct Support Assistant
+09
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Essex
+
+108392
+Direct Support Assistant
+09
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Hamilton
+
+108394
+Direct Support Assistant
+09
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+St Lawrence
+
+108396
+Licensed Psychologist
+25
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Kings
+
+108398
+Assistant Engineer (Civil/Transport)
+20
+07/14/22
+08/31/22
+Thruway Authority
+Albany
+
+108400
+Licensed Psychologist
+25
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Oneida
+
+108402
+Licensed Psychologist
+25
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Rockland
+
+108404
+Licensed Psychologist
+25
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Bronx
+
+108406
+Licensed Psychologist
+25
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Franklin
+
+108408
+Licensed Psychologist
+25
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Erie
+
+108411
+Psychologist 1/2
+21
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Kings
+
+108414
+Psychologist 1/2
+21
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Schenectady
+
+108416
+Psychologist 1/2
+21
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Monroe
+
+108418
+Psychologist 1/2
+21
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Suffolk
+
+108420
+Psychologist 1/2
+21
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Richmond
+
+108423
+Psychologist 1/2
+21
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Dutchess
+
+108429
+Application Developer/Analyst, IT (Ref#SJ006)
+NS
+07/14/22
+08/14/22
+Empire State Development, NYS 
+New York
+
+108435
+Artificial Intelligence Engineer
+NS
+07/14/22
+08/14/22
+Empire State Development, NYS 
+New York
+
+108438
+Associate or Senior Counsel, Corporate/Real Estate
+NS
+07/14/22
+08/14/22
+Empire State Development, NYS 
+New York
+
+108446
+Project Assistant, Box PIMS-573/51518
+NS
+07/14/22
+08/04/22
+Education Department, State
+Albany
+
+108472
+Administrative Assistant/Regional Office – Western NY_Buffalo   
+NS
+07/14/22
+09/14/22
+Empire State Development, NYS 
+Erie
+
+108475
+Vice President, Planning and Environmental Review
+NS
+07/14/22
+09/14/22
+Empire State Development, NYS 
+New York
+
+108477
+Licensed Practical Nurse 
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Kings
+
+108479
+Licensed Practical Nurse 
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Westchester
+
+108481
+Licensed Practical Nurse 
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Suffolk
+
+108484
+Licensed Practical Nurse 
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+New York
+
+108486
+Licensed Practical Nurse 
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Orange
+
+108488
+Licensed Practical Nurse
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Putnam
+
+108490
+Director, Life Sciences
+NS
+07/14/22
+09/14/22
+Empire State Development, NYS 
+New York
+
+108495
+Licensed Practical Nurse
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Ulster
+
+108505
+Licensed Practical Nurse 
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Chenango
+
+108507
+Licensed Practical Nurse 
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Otsego
+
+108509
+Deputy Director, Workforce Development - NYC or Albany	
+NS
+07/14/22
+09/14/22
+Empire State Development, NYS 
+Albany
+
+108511
+Health Information Management Technician 2, Buffalo Psychiatric Center, P23114
+15
+07/14/22
+08/04/22
+Mental Health, Office of
+Erie
+
+108516
+Education Credentials Specialist 1, Education Credentials Specialist Trainee 1, Box OP-1527/43235
+18
+07/14/22
+08/04/22
+Education Department, State
+Albany
+
+108518
+Medical Specialist 2, Manhattan Psychiatric Center, Physician, P23117
+38
+07/14/22
+08/02/22
+Mental Health, Office of
+New York
+
+108521
+Data and Metrics Manager, Workforce Development 
+NS
+07/14/22
+09/14/22
+Empire State Development, NYS 
+Albany
+
+108526
+Licensed Practical Nurse 
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Tioga
+
+108528
+Licensed Practical Nurse 
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Albany
+
+108530
+Licensed Practical Nurse 
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Montgomery
+
+108533
+Licensed Practical Nurse 
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Saratoga
+
+108535
+Licensed Practical Nurse 
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Schoharie
+
+108537
+Licensed Practical Nurse 
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Washington
+
+108539
+Licensed Practical Nurse 
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Cortland
+
+108541
+Licensed Practical Nurse 
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Lewis
+
+108544
+Licensed Practical Nurse 
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Oneida
+
+108546
+Licensed Practical Nurse 
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Oswego
+
+108548
+Licensed Practical Nurse 
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Steuben
+
+108550
+Licensed Practical Nurse 
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Wyoming
+
+108552
+Licensed Practical Nurse 
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Chemung
+
+108554
+Licensed Practical Nurse 
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Monroe
+
+108556
+Licensed Practical Nurse 
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Schuyler
+
+108558
+Licensed Practical Nurse 
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Essex
+
+108560
+Licensed Practical Nurse 
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Hamilton
+
+108562
+Licensed Practical Nurse 
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+St Lawrence
+
+108564
+Licensed Practical Nurse
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Greene
+
+108566
+Licensed Practical Nurse 
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Orleans
+
+108568
+Licensed Practical Nurse 
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Chautauqua
+
+108570
+Licensed Practical Nurse 
+10
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Niagara
+
+108572
+Nurse 2 
+16
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Herkimer
+
+108574
+Nurse 2 
+16
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Clinton
+
+108578
+Nurse 2 
+16
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Franklin
+
+108581
+Associate Psychologist, Central New York Psychiatric Center, Marcy, Prison Based Sex Offender Treatment program, P23123
+23
+07/14/22
+08/02/22
+Mental Health, Office of
+Oneida
+
+108583
+Nurse 2 
+16
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+St Lawrence
+
+108585
+Motor Vehicle Operator, Rochester Psychiatric Center, P23124
+07
+07/14/22
+08/03/22
+Mental Health, Office of
+Monroe
+
+108587
+Chief Housekeeper 2, Kingsboro Psychiatric Center, P23125
+20
+07/14/22
+08/03/22
+Mental Health, Office of
+Kings
+
+108595
+Nurse 2 
+16
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Rensselaer
+
+108597
+Nurse 2 
+16
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Schenectady
+
+108600
+Nurse 2
+16
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Washington
+
+108612
+Nurse 2
+16
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Fulton
+
+108614
+Nurse 2
+16
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Schoharie
+
+108616
+Nurse 2 
+16
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Madison
+
+108618
+Nurse 2 
+16
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Schuyler
+
+108620
+Nurse 2 
+16
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Seneca
+
+108622
+Nurse 2 
+16
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Oneida
+
+108624
+Nurse 2 
+16
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Steuben
+
+108627
+Nurse 2 
+16
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Allegany
+
+108630
+Nurse 2 
+16
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Chautauqua
+
+108632
+Nurse 2 
+16
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Erie
+
+108634
+Senior Certification Analyst
+18
+07/14/22
+08/14/22
+Empire State Development, NYS 
+Broome
+
+108636
+Senior Certification Analyst
+18
+07/14/22
+08/14/22
+Empire State Development, NYS 
+New York
+
+108641
+Nurse 2 
+16
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Monroe
+
+108645
+Nurse 2 
+16
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Wayne
+
+108647
+Nurse 2 
+16
+07/14/22
+10/15/22
+People With Developmental Disabilities, Office for
+Genesee
+
+108654
+Vice President, NYSTAR Business Development	
+NS
+07/14/22
+09/14/22
+Empire State Development, NYS 
+New York
+
+108666
+Land Surveyor 
+20
+07/15/22
+08/01/22
+Transportation, Department of 
+Broome
+
+108671
+Nurse 2
+16
+07/15/22
+10/15/22
+People With Developmental Disabilities, Office for
+Kings
+
+108675
+Nurse 2
+16
+07/15/22
+10/15/22
+People With Developmental Disabilities, Office for
+New York
+
+108677
+Nurse 2 
+16
+07/15/22
+10/15/22
+People With Developmental Disabilities, Office for
+Rockland
+
+108679
+Nurse 2 
+16
+07/15/22
+10/15/22
+People With Developmental Disabilities, Office for
+Nassau
+
+108682
+Nurse 2 
+16
+07/15/22
+10/15/22
+People With Developmental Disabilities, Office for
+Putnam
+
+108684
+Nurse 2 
+16
+07/15/22
+10/15/22
+People With Developmental Disabilities, Office for
+Ulster
+
+108688
+Nurse 2 
+16
+07/15/22
+10/15/22
+People With Developmental Disabilities, Office for
+Dutchess
+
+108691
+Nurse 2 
+16
+07/15/22
+10/15/22
+People With Developmental Disabilities, Office for
+Otsego
+
+108693
+Nurse 2 
+16
+07/15/22
+10/15/22
+People With Developmental Disabilities, Office for
+Tompkins
+
+108696
+Nurse 2 
+16
+07/15/22
+10/15/22
+People With Developmental Disabilities, Office for
+Chenango
+
+108698
+Nurse 2 
+16
+07/15/22
+10/15/22
+People With Developmental Disabilities, Office for
+Columbia
+
+108700
+Nurse 2
+16
+07/15/22
+10/15/22
+People With Developmental Disabilities, Office for
+Greene
+
+108707
+Plant Utilities Engineer 1
+14
+07/15/22
+09/30/22
+Corrections and Community Supervision, Department of 
+Washington
+
+108711
+General Mechanic
+12
+07/15/22
+10/15/22
+Military and Naval Affairs, Division of 
+Westchester
+
+108713
+General Mechanic
+12
+07/15/22
+10/15/22
+Military and Naval Affairs, Division of 
+Schenectady
+
+108726
+Assistant Attorney General, Taxpayer Protection Bureau (TPB_NYC_AAG_3485)
+NS
+07/15/22
+08/26/22
+Attorney General, Office of the
+New York
+
+108744
+Assistant Attorney General - Public Integrity Bureau, Real Estate Enforcement Unit (PIB/REEU_NYC_AAG_3486)
+NS
+07/15/22
+08/26/22
+Attorney General, Office of the
+New York
+
+108757
+Youth Support Assistant (Perm)
+09
+07/15/22
+08/15/22
+Children & Family Services, Office of 
+Ulster
+
+108760
+eDiscovery Document Review Manager - Practice Technologies Group, NYC or Albany (DOA_PTG_NYC/ALB_6222)
+NS
+07/15/22
+08/05/22
+Attorney General, Office of the
+Albany
+
+108764
+Human Resources Specialist 2
+Hourly
+07/18/22
+08/01/22
+State, Department of 
+Albany
+
+108769
+Administrative Assistant
+NS
+07/18/22
+08/03/22
+Parks, Recreation & Historic Preservation, Office of 
+Albany
+
+108774
+Assistant in Instructional Services (Career and Technical Education), Box P12-2196/64115
+22
+07/18/22
+08/08/22
+Education Department, State
+Albany
+
+108783
+Cook
+11
+07/18/22
+08/05/22
+Children & Family Services, Office of 
+Tompkins
+
+108788
+Nurse 3 Psychiatric (M.A. Stutzman Addiction Treatment Center)
+20
+07/18/22
+08/02/22
+Addiction Services and Supports, Office of 
+Erie
+
+108790
+Capital District Senior Architect
+24
+07/18/22
+08/25/22
+General Services, Office of 
+To Be Determined
+
+108792
+Western Region Senior Architect 
+24
+07/18/22
+08/25/22
+General Services, Office of 
+To Be Determined
+
+108794
+Loans & Grants Contract Administrator/Auditor
+NS
+07/18/22
+09/18/22
+Empire State Development, NYS 
+New York
+
+108798
+Trades Generalist 
+12
+07/18/22
+08/01/22
+Parks, Recreation & Historic Preservation, Office of 
+Chenango
+
+108804
+Motor Vehicle Operator
+07
+07/18/22
+08/02/22
+University at Albany
+Albany
+
+108806
+Senior Budgeting Analyst/Budgeting Analyst Trainee, Central Office;
+18
+07/18/22
+08/02/22
+Mental Health, Office of
+New York
+
+108809
+Automotive Facilities Inspector, or Automotive Facilities Inspector Trainee 1/2
+16
+07/18/22
+08/31/22
+Motor Vehicles, Department of 
+Queens
+
+108812
+Automotive Facilities Inspector, or Automotive Facilities Inspector Trainee 1/2
+16
+07/18/22
+08/31/22
+Motor Vehicles, Department of 
+Ulster
+
+108814
+Automotive Facilities Inspector, or Automotive Facilities Inspector Trainee 1/2
+16
+07/18/22
+08/31/22
+Motor Vehicles, Department of 
+Dutchess
+
+108816
+Automotive Facilities Inspector, or Automotive Facilities Inspector Trainee 1/2
+16
+07/18/22
+08/31/22
+Motor Vehicles, Department of 
+Westchester
+
+108819
+Teacher 2, 3, 4
+13
+07/18/22
+08/02/22
+Children & Family Services, Office of 
+Cayuga
+
+108821
+Professional Engineer 1 (Electrical)
+24
+07/18/22
+08/03/22
+Parks, Recreation & Historic Preservation, Office of 
+Albany
+
+108824
+Director of Internal Audit - Albany
+NS
+07/18/22
+08/01/22
+Labor, Department of 
+Albany
+
+108828
+Information Technology Specialist 2, Box PIMS-568/43705
+18
+07/18/22
+08/08/22
+Education Department, State
+Broome
+
+108830
+Senior Accountant or Accountant Trainee 1/2
+NS
+07/18/22
+08/02/22
+Insurance Fund, State 
+Albany
+
+108834
+Information Technology Specialist 1, Box PIMS-570/01773
+14
+07/18/22
+08/08/22
+Education Department, State
+Albany
+
+108837
+Office Assistant 1, Central Office;
+06
+07/18/22
+08/02/22
+Mental Health, Office of
+Albany
+
+108841
+Office Assistant 1 Keyboarding
+06
+07/18/22
+08/02/22
+Children & Family Services, Office of 
+Ulster
+
+108844
+Engineer Trainee/Assistant Engineer (Civil/Transportation)
+18
+07/18/22
+08/01/22
+Transportation, Department of 
+Queens
+
+108854
+Health Information Management Administrator 3 - CNYDDSO
+22
+07/19/22
+08/02/22
+People With Developmental Disabilities, Office for
+Oneida
+
+108857
+Information Technology Specialist 2, Box PIMS-571/00025
+18
+07/19/22
+08/09/22
+Education Department, State
+Albany
+
+108863
+Executive Assistant
+08
+07/19/22
+08/12/22
+Senate, NYS
+Albany
+
+108867
+Deputy Procurement Officer
+16
+07/19/22
+08/12/22
+Senate, NYS
+Albany
+
+108869
+Chief of Staff
+23
+07/19/22
+08/12/22
+Senate, NYS
+New York
+
+108871
+Information Technology Specialist 4, Box PIMS-572/01756
+25
+07/19/22
+08/09/22
+Education Department, State
+Albany
+
+108874
+Legislative Director
+18
+07/19/22
+08/12/22
+Senate, NYS
+Albany
+
+108878
+Legislative Librarian
+21
+07/19/22
+08/12/22
+Senate, NYS
+Albany
+
+108880
+Data Analyst I 
+14
+07/19/22
+08/12/22
+Senate, NYS
+Albany
+
+108882
+Community Liaison
+11
+07/19/22
+08/12/22
+Senate, NYS
+Kings
+
+108887
+Public Information Specialist 1
+18
+07/19/22
+08/19/22
+Transportation, Department of 
+Oneida
+
+108893
+Education Credentials Specialist 1, Education Credentials Specialist Trainee 1, (4 Positions), Box OHE-918/20064, OHE-931/14639, OHE-962/43237, OHE-963/43243
+18
+07/19/22
+08/09/22
+Education Department, State
+Albany
+
+108907
+Licensed Master Social Worker 2
+20
+07/19/22
+08/19/22
+Children & Family Services, Office of 
+Ulster
+
+108910
+Research Scientist 1 (Microbiology) - 14344
+18
+07/19/22
+08/19/22
+Health, Department of 
+Albany
+
+108913
+Director of Agency Emergency Management 
+NS
+07/19/22
+08/02/22
+State, Department of 
+Albany
+
+108922
+Architect - Upstate Design - Albany, NY
+NS
+07/19/22
+09/01/22
+DASNY - Dormitory Authority of the State of New York
+Albany
+
+108927
+Senior Attorney, Central Office;
+25
+07/19/22
+08/19/22
+Mental Health, Office of
+Albany
+
+108929
+Launderer, Box BAT-443/00639
+05
+07/19/22
+08/02/22
+Education Department, State
+Genesee
+
+108931
+Trades Generalist
+Hourly
+07/19/22
+08/08/22
+Parks, Recreation & Historic Preservation, Office of 
+Suffolk
+
+108933
+Executive Assistant/Financial Coordinator
+NS
+07/19/22
+09/19/22
+Empire State Development, NYS 
+New York
+
+108936
+Addictions Counselor 1 (Kingsboro Addiction Treatment Center)
+16
+07/19/22
+08/03/22
+Addiction Services and Supports, Office of 
+Kings
+
+108941
+Chief Credit Officer and Committee Head
+NS
+07/20/22
+08/20/22
+Insurance Fund, State 
+New York
+
+108943
+Senior Corporate Bond Portfolio Manager and Strategist
+NS
+07/20/22
+08/20/22
+Insurance Fund, State 
+New York
+
+108945
+Health Program Administrator 4 - 46184
+663
+07/20/22
+08/02/22
+Health, Department of 
+Albany
+
+108947
+Nursing Home Activities Assistant 1 - 40547, 40548, 40549
+NS
+07/20/22
+09/01/22
+Health, Department of 
+Genesee
+
+108949
+Hospital Nursing Services Consultant - 51148
+22
+07/20/22
+08/03/22
+Health, Department of 
+Onondaga
+
+108951
+Hospital Nursing Services Consultant - 46901
+22
+07/20/22
+08/03/22
+Health, Department of 
+Onondaga
+
+108963
+Senior Accountant (Accountant Trainee) - Item# 02728
+18
+07/20/22
+08/03/22
+State Comptroller, Office of the 
+Albany
+
+108971
+Maintenance Supervisor 2
+18
+07/20/22
+09/30/22
+Military and Naval Affairs, Division of 
+New York
+
+108974
+Associate Attorney Financial Services
+663
+07/20/22
+08/04/22
+Financial Services, Department of
+Albany
+
+108976
+Project Manager 2, Ref #15848
+23
+07/20/22
+07/31/22
+Information Technology Services, Office of
+Albany
+
+108983
+Nurse 2
+NS
+07/20/22
+08/19/22
+Children & Family Services, Office of 
+Cayuga
+
+108987
+Nurse 2 Psychiatric or Nurse 1 (John L. Norris Addiction Treatment Center)
+16
+07/20/22
+08/04/22
+Addiction Services and Supports, Office of 
+Monroe
+
+108992
+Training Specialist 1 - Mental Hygiene - CNYDDSO
+18
+07/20/22
+08/03/22
+People With Developmental Disabilities, Office for
+Onondaga
+
+108995
+Mental Hygiene Program Evaluation Specialist 3, Creedmoor Psychiatric Center, P23055
+23
+07/20/22
+08/03/22
+Mental Health, Office of
+Queens
+
+108999
+Office Assistant 1
+06
+07/20/22
+08/04/22
+State, Department of 
+Albany
+
+109002
+Electronics Security Systems Program Manager
+18
+07/20/22
+08/04/22
+Military and Naval Affairs, Division of 
+Albany
+
+109004
+General Mechanic
+12
+07/20/22
+09/30/22
+Military and Naval Affairs, Division of 
+Nassau
+
+109006
+General Mechanic
+12
+07/20/22
+09/30/22
+Military and Naval Affairs, Division of 
+Broome
+
+109009
+Maintenance Supervisor 2-REPOST
+18
+07/20/22
+09/30/22
+Military and Naval Affairs, Division of 
+Jefferson
+
+109011
+Labor Services Representative/Trainee 1/2 - Albany
+16
+07/20/22
+08/03/22
+Labor, Department of 
+Albany
+
+109014
+Air Base Security Guard-REPOST
+12
+07/20/22
+09/30/22
+Military and Naval Affairs, Division of 
+Suffolk
+
+109016
+Professional Engineer 1 (Civil/Transportation) (Region 11)
+24
+07/20/22
+08/03/22
+Transportation, Department of 
+Queens
+
+109018
+Maintenance Assistant
+09
+07/20/22
+09/30/22
+Military and Naval Affairs, Division of 
+Westchester
+
+109020
+Maintenance Assistant
+09
+07/20/22
+09/30/22
+Military and Naval Affairs, Division of 
+Rockland
+
+109022
+Facilities Operations Assistant 1 
+06
+07/20/22
+09/30/22
+Military and Naval Affairs, Division of 
+Rensselaer
+
+109025
+Clinical Physician
+NS
+07/21/22
+08/01/22
+Corrections and Community Supervision, Department of 
+Greene
+
+109027
+Minority Business Specialist 1
+18
+07/21/22
+08/21/22
+Corrections and Community Supervision, Department of 
+Albany
+
+109034
+Examinations Manager
+31
+07/21/22
+08/04/22
+Financial Services, Department of
+Albany
+
+109038
+Maintenance Assistant (Seasonal) - 2 positions 
+Hourly
+07/21/22
+08/04/22
+Environmental Conservation, Department of 
+Ulster
+
+109040
+Maintenance Assistant (Seasonal)
+Hourly
+07/21/22
+08/04/22
+Environmental Conservation, Department of 
+Dutchess
+
+109043
+Maintenance Assistant (Seasonal)
+Hourly
+07/21/22
+08/04/22
+Environmental Conservation, Department of 
+Ulster
+
+109046
+Medicaid Redesign Analyst 1(Trainee 1/Trainee 2) - 99373
+18
+07/21/22
+12/31/22
+Health, Department of 
+Albany
+
+109049
+Medicaid Redesign Analyst 1(Trainee 1/Trainee 2) - 99393
+18
+07/21/22
+12/31/22
+Health, Department of 
+Albany
+
+109051
+Auditor 1
+18
+07/21/22
+08/03/22
+People With Developmental Disabilities, Office for
+To Be Determined
+
+109054
+Auditor 1, Auditor Trainee 1, Box PIMS-547/00819
+18
+07/21/22
+08/11/22
+Education Department, State
+Albany
+
+109058
+Nurse 2 Psychiatric or Nurse 1 - (Russell E. Blaisdell ATC)
+16
+07/21/22
+08/05/22
+Addiction Services and Supports, Office of 
+Rockland
+
+109060
+Hospital Nursing Services Consultant - 59689
+22
+07/21/22
+08/08/22
+Health, Department of 
+Westchester
+
+109063
+Community Health Program Manager 3 - 32634
+664
+07/21/22
+08/08/22
+Health, Department of 
+Albany
+
+109070
+Program Research Specialist 2 (Public Health) or Trainee 1 - 23580
+18
+07/21/22
+08/04/22
+Health, Department of 
+Albany
+
+109074
+Community & Regional Banks Team Leader
+33
+07/21/22
+08/05/22
+Financial Services, Department of
+Albany
+
+109076
+Trades Specialist-Plumber and Steamfitter - Montrose
+12
+07/21/22
+09/30/22
+Health, Department of 
+Westchester
+
+109080
+Contract Management Specialist 2
+23
+07/21/22
+08/05/22
+Transportation, Department of 
+Albany
+
+109085
+Labor Services Representative Spanish Language/ Trainee 1/2 (Hourly)- Bronx
+16
+07/21/22
+08/04/22
+Labor, Department of 
+Bronx
+
+109087
+Licensed Master Social Worker 2, Hutchings Psychiatric Center, Outpatient, P23129
+20
+07/21/22
+08/08/22
+Mental Health, Office of
+Onondaga
+
+109090
+Accountant- Accounts Payable 
+NS
+07/21/22
+08/18/22
+DASNY - Dormitory Authority of the State of New York
+Albany
+
+109092
+Chief Actuary – Workers’ Compensation Reserve Unit
+NS
+07/21/22
+08/21/22
+Insurance Fund, State 
+New York
+
+109094
+Information Technology Specialist 3 (Information Security)
+23
+07/21/22
+08/04/22
+Thruway Authority
+Albany
+
+109098
+Licensed Master Social Worker 2
+20
+07/21/22
+08/31/22
+Children & Family Services, Office of 
+Tompkins
+
+109101
+Labor Services Representative/Trainee 1/2 (Hourly) - Albany
+NS
+07/21/22
+08/04/22
+Labor, Department of 
+Albany
+
+109109
+Youth Support Specialist (Perm)
+14
+07/22/22
+08/22/22
+Children & Family Services, Office of 
+Ulster
+
+109116
+Research Scientist 1 
+18
+07/22/22
+08/05/22
+Environmental Conservation, Department of 
+Albany
+
+109120
+Research Scientist 1 
+18
+07/22/22
+08/05/22
+Environmental Conservation, Department of 
+Albany
+
+109129
+Environmental Engineering Technician 1 (Seasonal)
+Hourly
+07/22/22
+08/05/22
+Environmental Conservation, Department of 
+Ulster
+
+109133
+Office Assistant 1 (Seasonal)
+Hourly
+07/22/22
+08/05/22
+Environmental Conservation, Department of 
+Essex
+
+109136
+Radio Dispatcher - Multiple Positions
+10
+07/22/22
+08/05/22
+Environmental Conservation, Department of 
+Albany
+
+109140
+Engineer Trainee/Assistant Engineer (Civil/Transportation)
+18
+07/22/22
+08/08/22
+Transportation, Department of 
+Erie
+
+109145
+Office Assistant 2
+09
+07/22/22
+08/05/22
+People With Developmental Disabilities, Office for
+Kings
+
+109147
+Office Assistant 2  
+09
+07/22/22
+08/05/22
+People With Developmental Disabilities, Office for
+Kings
+
+109149
+Office Assistant 1
+06
+07/22/22
+08/05/22
+People With Developmental Disabilities, Office for
+Monroe
+
+109151
+Licensed Master Social Worker 2, Buffalo Psychiatric Center, P23134
+20
+07/22/22
+08/12/22
+Mental Health, Office of
+Erie
+
+109153
+Assistant Engineer (Env)/ Engineer Trainee
+NS
+07/22/22
+08/05/22
+Environmental Conservation, Department of 
+Rensselaer
+
+109156
+Social Work Assistant 3
+17
+07/22/22
+08/05/22
+People With Developmental Disabilities, Office for
+Kings
+
+109161
+Licensed Master Social Worker 1
+18
+07/22/22
+08/05/22
+People With Developmental Disabilities, Office for
+New York
+
+109163
+Licensed Master Social Worker 1
+18
+07/22/22
+08/05/22
+People With Developmental Disabilities, Office for
+New York
+
+109165
+Assistant Engineer (Env)/ Engineer Trainee
+NS
+07/22/22
+08/05/22
+Environmental Conservation, Department of 
+Albany
+
+109169
+Assistant Counsel (working title: Junior Appellate Attorney) 
+NS
+07/22/22
+08/22/22
+Indigent Legal Services, Office of  
+Albany
+
+109171
+Licensed Master Social Worker 2, Central New York Psychiatric Center, Albion Satellite Unit, P23149
+20
+07/22/22
+09/01/22
+Mental Health, Office of
+Orleans
+
+109173
+Licensed Psychologist, Central New York Psychiatric Center – Attica Satellite Units, P23142
+25
+07/22/22
+09/01/22
+Mental Health, Office of
+Wyoming
+
+109175
+Safety and Security Officer 1/Trainee  EOA#: 22-241
+NS
+07/22/22
+08/04/22
+People With Developmental Disabilities, Office for
+Rockland
+
+109177
+Licensed Master Social Worker 2, Central New York Psychiatric Center, Auburn Satellite Unit, P23144
+20
+07/22/22
+09/01/22
+Mental Health, Office of
+Cayuga
+
+109179
+Assistant Counsel (working title: Appellate Attorney) 
+NS
+07/22/22
+08/22/22
+Indigent Legal Services, Office of  
+Albany
+
+109182
+Administrative Assistant 1(Administrative Assistant Trainee) - 12631
+11
+07/22/22
+08/05/22
+Health, Department of 
+Albany
+
+109184
+Administrative Assistant 1(Administrative Assistant Trainee) - 12634
+11
+07/22/22
+08/19/22
+Health, Department of 
+Albany
+
+109186
+Community Mental Health Nurse
+19
+07/22/22
+08/05/22
+People With Developmental Disabilities, Office for
+Bronx
+
+109190
+Chief Data Officer, Ref #00027
+NS
+07/22/22
+08/31/22
+Information Technology Services, Office of
+Albany
+
+109195
+Youth Counselor 1
+18
+07/22/22
+08/05/22
+Children & Family Services, Office of 
+Monroe
+
+109199
+General Counsel
+667
+07/22/22
+08/08/22
+Transportation, Department of 
+New York
+
+109202
+Licensed Master Social Worker 2 (St. Lawrence Addiction Treatment Center)
+20
+07/25/22
+08/09/22
+Addiction Services and Supports, Office of 
+St Lawrence
+
+109208
+Building Inspector
+Hourly
+07/25/22
+08/05/22
+Parks, Recreation & Historic Preservation, Office of 
+Saratoga
+
+109210
+Senior Employment Security Clerk (Hourly) - Albany
+NS
+07/25/22
+08/08/22
+Labor, Department of 
+Albany
+
+109212
+Food Service Worker 2, Pilgrim Psychiatric Center, P23150
+09
+07/25/22
+08/11/22
+Mental Health, Office of
+Suffolk
+
+109217
+Training Specialist 1/Trainee 1/Trainee 2
+18
+07/25/22
+08/09/22
+Transportation, Department of 
+Albany
+
+109222
+Office Aide
+Hourly
+07/25/22
+08/05/22
+Parks, Recreation & Historic Preservation, Office of 
+Saratoga
+
+109226
+Addictions Counselor Assistant  (Dick Van Dyke Addiction Treatment Center)
+11
+07/25/22
+08/09/22
+Addiction Services and Supports, Office of 
+Seneca
+
+109228
+Body Repair Inspector, or Body Repair Inspector Trainee 1/2
+16
+07/25/22
+08/31/22
+Motor Vehicles, Department of 
+Erie
+
+109231
+Research Scientist 5 (Computer Science)
+31
+07/25/22
+08/08/22
+People With Developmental Disabilities, Office for
+Albany
+
+109235
+Trades Generalist - Painter
+12
+07/25/22
+08/04/22
+SUNY Brockport
+Monroe
+
+109238
+Traffic Systems Technician 1/Trainee 1/Trainee 2 (Region 2)
+14
+07/25/22
+08/09/22
+Transportation, Department of 
+Oneida
+
+109241
+Office Assistant 2 Calculations (Region 2)
+09
+07/25/22
+08/04/22
+Transportation, Department of 
+Oneida
+
+109245
+Teaching Assistant
+09
+07/25/22
+08/26/22
+Children & Family Services, Office of 
+Monroe
+
+109249
+Assistant Attorney General, Claims Bureau – Torts Section NYC (CLA/TS_NYC_AAG_3479)
+NS
+07/25/22
+08/19/22
+Attorney General, Office of the
+New York
+
+109252
+Maintenance Assistant (Seasonal) - Multiple Positions
+Hourly
+07/25/22
+08/08/22
+Environmental Conservation, Department of 
+Hamilton
+
+109255
+Contract Management Specialist 1/Trainee 1/2
+18
+07/25/22
+08/08/22
+Children & Family Services, Office of 
+Rensselaer
+
+109259
+Public Information Specialist 2, Box OCE-1221/26213
+23
+07/25/22
+08/15/22
+Education Department, State
+Albany
+
+109261
+Trades Generalist (Temporary/Hourly) – Central Office;
+Hourly
+07/25/22
+09/05/22
+Mental Health, Office of
+Erie
+
+109263
+Facility Operations Assistant 1 (Temporary/Hourly) – Three Positions, Central Office;
+Hourly
+07/26/22
+09/05/22
+Mental Health, Office of
+Rockland
+
+109266
+Facility Operations Assistant 1 (Temporary/Hourly) – Two Positions, Central Office;
+Hourly
+07/26/22
+09/05/22
+Mental Health, Office of
+Queens
+
+109271
+Office Assistant 1 
+06
+07/26/22
+08/05/22
+Civil Service, Department of 
+Albany
+
+109275
+Facility Operations Assistant 1 (Temporary/Hourly) – Three Positions, Central Office;
+Hourly
+07/26/22
+09/05/22
+Mental Health, Office of
+New York
+
+109284
+Human Resources Specialist Tr. 1 Benefits/Human Resources Specialist 1 Benefits
+18
+07/26/22
+08/04/22
+Civil Service, Department of 
+Albany
+
+109286
+FS Specialist 2 (Pharmacy Benefits Manager Policy Analyst)
+23
+07/26/22
+08/10/22
+Financial Services, Department of
+Albany
+
+109288
+Clinical Laboratory Consultant - 45116
+22
+07/26/22
+08/09/22
+Health, Department of 
+New York
+
+109290
+Contract Management Specialist 1, G18
+18
+07/26/22
+08/05/22
+Agriculture & Markets, Department of 
+Albany
+
+109297
+Health Program Director 2 - 51503
+665
+07/26/22
+08/09/22
+Health, Department of 
+Albany
+
+109300
+Compliance Specialist 1
+18
+07/26/22
+08/10/22
+Transportation, Department of 
+Albany
+
+109304
+Habilitation Specialist 1 (Qualified Intellectual Disability Professional*)
+14
+07/26/22
+08/03/22
+People With Developmental Disabilities, Office for
+Dutchess
+
+109307
+Administrative Assistant 2
+15
+07/26/22
+08/26/22
+Human Rights, Division of 
+Bronx
+
+109312
+Dental Hygienist
+12
+07/26/22
+08/03/22
+People With Developmental Disabilities, Office for
+Dutchess
+
+109315
+Office Assistant 2 (Keyboarding)
+09
+07/26/22
+08/03/22
+People With Developmental Disabilities, Office for
+Dutchess
+
+109317
+Trades Generalist 
+12
+07/26/22
+08/04/22
+Parks, Recreation & Historic Preservation, Office of 
+Oswego
+
+109319
+Office Assistant 2
+09
+07/26/22
+08/03/22
+People With Developmental Disabilities, Office for
+Dutchess
+
+109322
+Assistant Attorney General, Civil Recoveries Bureau - Oil Spill Unit (CRB/OSU_ALB_AAG_3489)
+NS
+07/26/22
+09/02/22
+Attorney General, Office of the
+Albany
+
+109328
+Assistant Chief Investigations
+NS
+07/26/22
+08/10/22
+New York State Justice Center For The Protection Of People With Special Needs
+Westchester
+
+109332
+Social Work Assistant 3 - Broome
+17
+07/26/22
+08/09/22
+People With Developmental Disabilities, Office for
+New York
+
+109336
+Dietitian 2 - Broome
+18
+07/26/22
+08/09/22
+People With Developmental Disabilities, Office for
+Chenango
+
+109339
+Trades Generalist (Temporary/Hourly) – Two Positions, Central Office;
+Hourly
+07/26/22
+09/05/22
+Mental Health, Office of
+Queens
+
+109342
+Immigrant Workers Specialist 3 - Albany
+662
+07/26/22
+08/09/22
+Labor, Department of 
+Albany
+
+109345
+Immigrant Workers Specialist 3 - New York City
+662
+07/26/22
+08/09/22
+Labor, Department of 
+New York
+
+109347
+Administrative Assistant 1
+11
+07/26/22
+08/10/22
+Children & Family Services, Office of 
+Monroe
+
+109351
+Senior Attorney
+25
+07/27/22
+08/07/22
+Agriculture & Markets, Department of 
+New York
+
+109353
+Office Assistant 1 - Item #00850 & 00851 (2 positions)
+06
+07/27/22
+08/06/22
+State Comptroller, Office of the 
+Albany
+
+109355
+Deputy Director, Psychiatric Center 2 – Operation, Kingsboro Psychiatric Center, P23151
+666
+07/27/22
+08/24/22
+Mental Health, Office of
+Kings
+
+109358
+Staff Accountant, Accounts Receivable
+NS
+07/27/22
+09/27/22
+Empire State Development, NYS 
+New York
+
+109361
+Facility Operations Assistant 1
+NS
+07/27/22
+08/11/22
+General Services, Office of 
+Albany
+
+109367
+RN2  Registered Nurse 2  RN 2    EOA# 22-252  Days  Westchester County
+16
+07/27/22
+01/07/23
+People With Developmental Disabilities, Office for
+Westchester
+
+109369
+Office Assistant 1 Keyboarding #22-315bjd
+06
+07/27/22
+08/10/22
+People With Developmental Disabilities, Office for
+Genesee
+
+109371
+Veterans Benefits Advisor 1
+18
+07/27/22
+08/11/22
+Veteran's Affairs, Division of 
+Steuben
+
+109377
+RN2  Registered Nurse 2  RN 2  EOA# 22-255
+16
+07/27/22
+01/07/23
+People With Developmental Disabilities, Office for
+Westchester
+
+109384
+Habilitation Specialist 1 - LIT
+14
+07/27/22
+08/05/22
+People With Developmental Disabilities, Office for
+Franklin
+
+109388
+Nurse 2
+16
+07/27/22
+08/11/22
+Children & Family Services, Office of 
+Suffolk
+
+109391
+Legal Assistant 2 - Item #01283
+17
+07/27/22
+08/11/22
+State Comptroller, Office of the 
+Albany
+
+109393
+Archives and Records Management Specialist 2, Box OCE-1288/26061
+18
+07/27/22
+08/17/22
+Education Department, State
+Albany
+
+109396
+Auditor Trainee 1
+14
+07/27/22
+08/12/22
+Medicaid Inspector General, NYS Office of the 
+Albany
+
+109399
+Printing Equipment Operator 3 - 119
+12
+07/27/22
+08/10/22
+Health, Department of 
+Albany
+
+109405
+Nurse 2 Psychiatric or Nurse 1(M.A. Stutzman ATC)
+16
+07/27/22
+08/11/22
+Addiction Services and Supports, Office of 
+Erie
+
+109410
+Fish and Wildlife Technician 1 (Seasonal) 
+Hourly
+07/27/22
+08/10/22
+Environmental Conservation, Department of 
+Livingston
+
+109412
+Habilitation Specialist 1 - Broome
+14
+07/27/22
+08/09/22
+People With Developmental Disabilities, Office for
+Broome
+
+109414
+Senior Physical Therapist
+18
+07/27/22
+08/09/22
+People With Developmental Disabilities, Office for
+Broome
+
+109416
+Senior Budgeting Analyst/Budgeting Analyst Trainee, Central Office;
+18
+07/28/22
+08/12/22
+Mental Health, Office of
+New York
+
+109421
+Youth Support Specialist (Hourly)
+NS
+07/28/22
+08/28/22
+Children & Family Services, Office of 
+Tompkins
+
+109423
+Youth Support Assistant (Hourly)
+NS
+07/28/22
+08/28/22
+Children & Family Services, Office of 
+Tompkins
+
+109426
+Assistant Attorney General, Executive Division (EXEC_NYC_AAG_3490)
+NS
+07/28/22
+08/26/22
+Attorney General, Office of the
+New York
+
+109430
+Investigative Officer 1/Trainee (Spanish Language) - New York City
+16
+07/28/22
+08/11/22
+Labor, Department of 
+New York
+
+109432
+Senior Budgeting Analyst/Budgeting Analyst Trainee, Ref# 70119
+18
+07/28/22
+08/08/22
+Information Technology Services, Office of
+Albany
+
+109435
+Convention & Arts Center Operations Coordinator
+14
+07/28/22
+08/12/22
+General Services, Office of 
+Albany
+
+109439
+Trades Specialist (Electrician) #22-317bjd
+12
+07/28/22
+08/11/22
+People With Developmental Disabilities, Office for
+Erie
+
+109442
+Health Program Administrator or Health Program Administrator Trainee 1/Trainee 2 - 46540, 46097 
+NS
+07/28/22
+08/11/22
+Health, Department of 
+Albany
+
+109444
+Highway Maintenance Worker 2
+10
+07/28/22
+08/08/22
+Transportation, Department of 
+St Lawrence
+
+109446
+Highway Maintenance Worker 2
+10
+07/28/22
+08/08/22
+Transportation, Department of 
+Jefferson
+
+109448
+Highway Maintenance Worker 2
+10
+07/28/22
+08/08/22
+Transportation, Department of 
+Jefferson
+
+109453
+Highway Maintenance Supervisor 1
+13
+07/28/22
+08/08/22
+Transportation, Department of 
+St Lawrence
+
+109455
+Maintenance Assistant
+09
+07/28/22
+08/08/22
+Transportation, Department of 
+Clinton
+
+109457
+Bridge Repair Supervisor 1 
+14
+07/28/22
+08/08/22
+Transportation, Department of 
+Jefferson
+
+109459
+Principal Engineering Technician
+16
+07/28/22
+08/12/22
+Transportation, Department of 
+Jefferson
+
+109461
+Associate Attorney
+NS
+07/28/22
+08/12/22
+Financial Services, Department of
+Albany
+
+109463
+Senior Administrative Analyst/Trainee 1/Trainee 2
+18
+07/28/22
+08/12/22
+Transportation, Department of 
+Albany
+
+109465
+Trades Generalist
+12
+07/28/22
+08/15/22
+Children & Family Services, Office of 
+Tompkins
+
+109467
+Nurse 2 Psychiatric or Nurse 1, EVENINGS (M.A. Stutzman ATC)
+16
+07/28/22
+08/12/22
+Addiction Services and Supports, Office of 
+Erie
+
+109469
+Investigative Officer 1/Trainee 1 - New York City
+16
+07/28/22
+08/11/22
+Labor, Department of 
+New York
+
+109473
+Teacher 2, 3, 4
+13
+07/28/22
+08/11/22
+Children & Family Services, Office of 
+Monroe
+
+109475
+Trades Generalist
+12
+07/28/22
+08/07/22
+People With Developmental Disabilities, Office for
+New York
+
+109482
+Facilities Operations Assistant 1 (Grounds)
+06
+07/29/22
+08/12/22
+University at Albany
+Albany
+
+109489
+Assistant Counsel, Central Office;
+NS
+07/29/22
+08/26/22
+Mental Health, Office of
+Albany
+
+109492
+Compliance Specialist 3
+25
+07/29/22
+08/15/22
+Transportation, Department of 
+Albany
+
+109495
+Compliance Specialist 1
+18
+07/29/22
+08/15/22
+Transportation, Department of 
+Albany
+
+109498
+Homeland Security Program Analyst 1
+18
+07/29/22
+08/12/22
+Homeland Security and Emergency Services, Division of 
+Albany
+
+109502
+Assistant Counsel (Director of De Novo Unit)
+NS
+07/29/22
+08/28/22
+New York State Justice Center For The Protection Of People With Special Needs
+Albany
+
+109504
+Assistant Counsel (Lead Counsel - De Novo Unit)
+NS
+07/29/22
+08/28/22
+New York State Justice Center For The Protection Of People With Special Needs
+Westchester
+
+109506
+Investigative Specialist 1, Box ACS-2615/14627
+18
+07/29/22
+08/19/22
+Education Department, State
+New York
+
+109508
+Assistant Counsel (Lead Counsel - De Novo Unit)
+NS
+07/29/22
+08/28/22
+New York State Justice Center For The Protection Of People With Special Needs
+Kings
+
+109512
+Administrative Specialist 1 - Item # 01502
+18
+07/29/22
+08/12/22
+State Comptroller, Office of the 
+Albany
+
+109514
+Community Health Program Manager 1 - 32380
+662
+07/29/22
+08/15/22
+Health, Department of 
+Albany
+
+109516
+Associate in Education Improvement Services, Box OHE-948/65005
+26
+07/29/22
+08/19/22
+Education Department, State
+Albany
+
+109520
+Associate in Education Improvement Services, Box OHE-949/66128
+26
+07/29/22
+08/19/22
+Education Department, State
+Albany
+
+109522
+Bridge Repair Assistant / Trainee 2 / Trainee 1 Region 9
+NS
+07/29/22
+08/11/22
+Transportation, Department of 
+Broome
+
+109524
+Bridge Repair Assistant / Trainee 2 / Trainee 1 Region 9
+NS
+07/29/22
+08/11/22
+Transportation, Department of 
+Delaware
+
+109526
+Bridge Repair Assistant / Trainee 2 / Trainee 1 Region 9
+NS
+07/29/22
+08/11/22
+Transportation, Department of 
+Sullivan
+
+109528
+Social Work Assistant 2
+14
+07/29/22
+08/10/22
+People With Developmental Disabilities, Office for
+Dutchess
+
+109531
+C220104 - Facility Operations Assistant 1 (Grounds) - Campus Operations
+06
+07/29/22
+08/11/22
+University at Buffalo
+Erie
+
+109538
+Office Assistant 1 - Keyboarding (Seasonal)
+Hourly
+07/29/22
+08/12/22
+Environmental Conservation, Department of 
+Jefferson
+
+109540
+Senior Attorney
+25
+07/29/22
+08/13/22
+Insurance Fund, State 
+New York
+
+109543
+Associate in Higher Education, Box OHE-955/66359
+26
+07/29/22
+08/19/22
+Education Department, State
+Albany
+
+109546
+Executive Assistant, Small Business & Technology Development	
+NS
+07/29/22
+09/29/22
+Empire State Development, NYS 
+New York
+
+109549
+Addictions Counselor 1 (Russell E. Blaisdell ATC)
+16
+07/29/22
+08/13/22
+Addiction Services and Supports, Office of 
+Rockland
+
+109551
+Written Exam Proctor - Buffalo
+NS
+07/29/22
+08/12/22
+State, Department of 
+Erie
+
+109553
+Community Correction Representative 2
+23
+07/29/22
+08/08/22
+Criminal Justice Services, Division of 
+Albany
+
+109556
+Director, Community Relations	
+NS
+07/29/22
+09/29/22
+Empire State Development, NYS 
+New York
+
+109561
+Program Operations Specialist 1
+18
+07/29/22
+08/12/22
+People With Developmental Disabilities, Office for
+Oneida
+
+109564
+Senior Budgeting Analyst, G18
+18
+07/29/22
+08/08/22
+Agriculture & Markets, Department of 
+Albany
+
+109566
+Manager of Licensing
+NS
+07/29/22
+08/12/22
+NYS Gaming Commission
+Schenectady
+
+109569
+Maintenance Assistant (Hourly) - Creedmoor ATC
+Hourly
+07/29/22
+08/29/22
+Addiction Services and Supports, Office of 
+Queens
+
+109573
+Auditor Trainee* OR Auditor 1
+18
+07/29/22
+08/11/22
+Public Service, Department of 
+Nassau
+
+109579
+Nurse 2
+16
+07/29/22
+08/02/22
+Corrections and Community Supervision, Department of 
+Sullivan
+
+109581
+Office Assistant 1, Central Office;
+06
+07/29/22
+08/13/22
+Mental Health, Office of
+Albany
+
+109583
+Associate Psychologist
+23
+07/29/22
+08/22/22
+Children & Family Services, Office of 
+Monroe
+
+109585
+Psychologist 2
+23
+07/29/22
+08/22/22
+Children & Family Services, Office of 
+Monroe
+
+109588
+School Aide Budget and Policy Analyst - EDU - Ref #22-82 
+NS
+07/29/22
+08/12/22
+Budget, Division of
+Albany
+
+109591
+Management Specialist 1/Trainee 1
+18
+07/30/22
+08/15/22
+Medicaid Inspector General, NYS Office of the 
+Albany
