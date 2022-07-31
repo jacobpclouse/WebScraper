@@ -95,7 +95,7 @@ for d in soup.findAll(attrs={'class': 'odd'}):
     # Writing out text file to see what is in grade
     writeOutToFile(dueDate.text + '\n',"dueDate")
 
-print(job_due_date)
+#print(job_due_date)
 
 #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
@@ -107,7 +107,7 @@ for e in soup.findAll(attrs={'class': 'odd'}):
     # Writing out text file to see what is in grade
     writeOutToFile(agency.text + '\n',"agency")
 
-print(job_agency)
+#print(job_agency)
 
 #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
