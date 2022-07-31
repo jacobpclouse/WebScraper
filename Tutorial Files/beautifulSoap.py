@@ -21,7 +21,8 @@ import json
 #=-=-=-=-=-=-
 
 # url='https://oxylabs.io/blog'
-url='https://www.albany.edu/'
+#url='https://www.albany.edu/'
+url = 'https://shootthezombies.com'
 response = requests.get(url)
 
 soup = BeautifulSoup(response.text, 'html.parser')
