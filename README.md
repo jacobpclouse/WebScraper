@@ -18,3 +18,5 @@ Find the second instance of a particular class using BeautifulSoup: https://stac
 Getting first (or a specific) td in BeautifulSoup with no class: https://stackoverflow.com/questions/64542519/getting-first-or-a-specific-td-in-beautifulsoup-with-no-class
 Selecting second child using BeautifulSoup: https://stackoverflow.com/questions/38233838/selecting-second-child-using-beautifulsoup
 How to get two tags in findall using BeautifulSoup: https://www.edureka.co/community/42701/how-to-get-two-tags-in-findall-using-beautifulsoup
+Creating Key Value Pairs in Python: https://www.geeksforgeeks.org/add-a-keyvalue-pair-to-dictionary-in-python/
+Multiple Values per Key in Python: https://thispointer.com/python-dictionary-with-multiple-values-per-key/
