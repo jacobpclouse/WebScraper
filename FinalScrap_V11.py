@@ -6,6 +6,7 @@ from unittest import result
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
+import datetime
 
 #=-=-=-=-=-=-
 # Variables
@@ -25,6 +26,15 @@ def writeOutToFile(outgoingData,fileName):
     with open(f'./{fileName}.txt', 'a') as z:
         z.write(outgoingData)
 
+# --- Function to Defang date time ---
+def defang_datetime():
+    current_datetime = f"_{datetime.datetime.now()}"
+
+    current_datetime = current_datetime.replace(":","_")
+    current_datetime = current_datetime.replace(".","-")
+    current_datetime = current_datetime.replace(" ","_")
+    
+    return current_datetime
 
 # --- Function to print get url ---
 def getJobs(inputUrl, evenOrOdd):
@@ -132,10 +142,14 @@ def myLogo():
 # MAIN
 #=-=-=-=-=-=-
 
+# Grab current date & time from function & store in variable
+use_this_datetime = defang_datetime()
+
+# NYS JOBS Target URL
 url = "https://statejobs.ny.gov/public/vacancyTable.cfm"
 
 # Get Even Designated Jobs CSV
-getJobs(url,"even")
+getJobs(url,use_this_datetime)
 
 # Get Odd Designated Jobs CSV
 #getJobs(url,"odd")
