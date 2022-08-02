@@ -20,3 +20,5 @@ https://oxylabs.io/blog/python-web-scraping
 - How to get two tags in findall using BeautifulSoup: https://www.edureka.co/community/42701/how-to-get-two-tags-in-findall-using-beautifulsoup
 - Creating Key Value Pairs in Python: https://www.geeksforgeeks.org/add-a-keyvalue-pair-to-dictionary-in-python/
 - Multiple Values per Key in Python: https://thispointer.com/python-dictionary-with-multiple-values-per-key/
+- Python Tutorial: Working with JSON Data using the json Module: https://www.youtube.com/watch?v=9N6a-VLBa2I
+- Creating JSON from Dictionaries and Lists: https://pythonexamples.org/python-create-json/
