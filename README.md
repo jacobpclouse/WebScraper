@@ -1,5 +1,5 @@
 # WebScrapper
-Web Scrapper to find jobs at NYS and output to CSV file
+Web Scrapper to find jobs at NYS and output to CSV and JSON file formats
 (with Python, Beautiful Soup, Lxml, & Selenium)
 
 
