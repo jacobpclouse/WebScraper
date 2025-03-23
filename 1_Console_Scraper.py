@@ -108,114 +108,114 @@ def getJobs(inputUrl, outputFileName,jsonName):
 
     # Finding even and odd numbered Jobs
     for a in soup.findAll(attrs={'class': ('even', 'odd')}):
-        index_val+=1
+        # index_val+=1 # uncomment this if you want to limite how many jobs returned, mainly for testing
     
-        if index_val > 9:
-            break
-        else:
-            
+        # if index_val > 9:
+        #     break
+        # else:
+        
 
-        #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-        # Find Job Title
-        #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-            name = a.find('a')
-            # Writing out text file to see what is in results
+    #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    # Find Job Title
+    #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+        name = a.find('a')
+        # Writing out text file to see what is in results
 
-        #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-        # Find job number (used as key)
-        #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-            number = a.find('td')
-            # Writing out text file to see what is in job number
+    #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    # Find job number (used as key)
+    #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+        number = a.find('td')
+        # Writing out text file to see what is in job number
 
-        #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-        # Find job pay grade
-        #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-            grade = a.select("tr > td")[2]
-            # Writing job pay grade object
+    #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    # Find job pay grade
+    #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+        grade = a.select("tr > td")[2]
+        # Writing job pay grade object
 
-        # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-        # When Posted
-        # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-            postedDate = a.select("tr > td")[3]
-            # Writing posted day object
+    # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    # When Posted
+    # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+        postedDate = a.select("tr > td")[3]
+        # Writing posted day object
 
-        #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-        # Find job application due by
-        #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-            dueDate = a.select("tr > td")[4]
-            # Writing out text file to see what due date is
+    #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    # Find job application due by
+    #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+        dueDate = a.select("tr > td")[4]
+        # Writing out text file to see what due date is
 
-        #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-        # Find job agency
-        #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-            agency = a.select("tr > td")[5]
-            # Writing out text file to see what is in agency
+    #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    # Find job agency
+    #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+        agency = a.select("tr > td")[5]
+        # Writing out text file to see what is in agency
 
-        #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-        # Find job link
-        #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-            Job_page = GetIDUrl(number.text)
-            # using job id to get link
+    #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    # Find job link
+    #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+        Job_page = GetIDUrl(number.text)
+        # using job id to get link
 
-            print(f"JOB NUM: {number.text} - TITLE: {name.text}")
-            print(f"    > LINK: {Job_page}")
+        print(f"JOB NUM: {number.text} - TITLE: {name.text}")
+        print(f"    > LINK: {Job_page}")
 
 
-        # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-        # NOW WE LOOK AT JOB PAGE:
-        # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-            response_LVL2 = requests.get(Job_page)
-            soup_LVL2 = BeautifulSoup(response_LVL2.text, "html.parser")
+    # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    # NOW WE LOOK AT JOB PAGE:
+    # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+        response_LVL2 = requests.get(Job_page)
+        soup_LVL2 = BeautifulSoup(response_LVL2.text, "html.parser")
 
-            # Find all span tags
-            all_rightCol = soup_LVL2.find_all(attrs={"class": ("rightCol")})
+        # Find all span tags
+        all_rightCol = soup_LVL2.find_all(attrs={"class": ("rightCol")})
 
-            job_data = {
-                "job title": name.text,
-                "job number": number.text,
-                "job grade": grade.text,
-                "job posted date": postedDate.text,
-                "job due date": dueDate.text,
-                "job agency": agency.text,
-                "job link": Job_page,
-                "job_Category": get_text_safe(all_rightCol, 6),
-                "job_Bargaining_Unit": get_text_safe(all_rightCol, 8),
-                "job_Pay_Range": get_text_safe(all_rightCol, 9),
-                "job_Employment_Type": get_text_safe(all_rightCol, 10),
-                "job_Appointment_Type": get_text_safe(all_rightCol, 11),
-                "job_Travel": get_text_safe(all_rightCol, 13),
-                "job_Workweek": get_text_safe(all_rightCol, 14),
-                "job_Hours_Per_Week": get_text_safe(all_rightCol, 15),
-                "job_Start_Time": get_text_safe(all_rightCol, 16),
-                "job_End_Time": get_text_safe(all_rightCol, 17),
-                "job_Flextime_Allowed": get_text_safe(all_rightCol, 18),
-                "job_Mandatory_Overtime": get_text_safe(all_rightCol, 19),
-                "job_Compressed_Workweek_Allowed": get_text_safe(all_rightCol, 20),
-                "job_Telecommuting_Allowed": get_text_safe(all_rightCol, 21),
-                "job_County": get_text_safe(all_rightCol, 22),
-                "job_Street_Address": get_text_safe(all_rightCol, 23) + "\n" + get_text_safe(all_rightCol, 24),
-                "job_City": get_text_safe(all_rightCol, 25),
-                "job_State": get_text_safe(all_rightCol, 26),
-                "job_Zip_Code": get_text_safe(all_rightCol, 27),
-                "job_Duties_Description": get_text_safe(all_rightCol, 28),
-                "job_Minimum_Qualifications": get_text_safe(all_rightCol, 29),
-                "job_Additional_Comments": get_text_safe(all_rightCol, 30),
-                "job_Apply_Name": get_text_safe(all_rightCol, 31),
-                "job_Apply_Telephone": get_text_safe(all_rightCol, 32),
-                "job_Apply_Fax": get_text_safe(all_rightCol, 33),
-                "job_Apply_Email": get_text_safe(all_rightCol, 34),
-                "job_Apply_Street_Addr": get_text_safe(all_rightCol, 35) + "\n" + get_text_safe(all_rightCol, 36),
-                "job_Apply_City": get_text_safe(all_rightCol, 37),
-                "job_Apply_State": get_text_safe(all_rightCol, 38),
-                "job_Apply_Zip_Code": get_text_safe(all_rightCol, 39),
-                "job_Note_On_Applying": get_text_safe(all_rightCol, 40)
-            }
+        job_data = {
+            "job title": name.text,
+            "job number": number.text,
+            "job grade": grade.text,
+            "job posted date": postedDate.text,
+            "job due date": dueDate.text,
+            "job agency": agency.text,
+            "job link": Job_page,
+            "job_Category": get_text_safe(all_rightCol, 6),
+            "job_Bargaining_Unit": get_text_safe(all_rightCol, 8),
+            "job_Pay_Range": get_text_safe(all_rightCol, 9),
+            "job_Employment_Type": get_text_safe(all_rightCol, 10),
+            "job_Appointment_Type": get_text_safe(all_rightCol, 11),
+            "job_Travel": get_text_safe(all_rightCol, 13),
+            "job_Workweek": get_text_safe(all_rightCol, 14),
+            "job_Hours_Per_Week": get_text_safe(all_rightCol, 15),
+            "job_Start_Time": get_text_safe(all_rightCol, 16),
+            "job_End_Time": get_text_safe(all_rightCol, 17),
+            "job_Flextime_Allowed": get_text_safe(all_rightCol, 18),
+            "job_Mandatory_Overtime": get_text_safe(all_rightCol, 19),
+            "job_Compressed_Workweek_Allowed": get_text_safe(all_rightCol, 20),
+            "job_Telecommuting_Allowed": get_text_safe(all_rightCol, 21),
+            "job_County": get_text_safe(all_rightCol, 22),
+            "job_Street_Address": get_text_safe(all_rightCol, 23) + "\n" + get_text_safe(all_rightCol, 24),
+            "job_City": get_text_safe(all_rightCol, 25),
+            "job_State": get_text_safe(all_rightCol, 26),
+            "job_Zip_Code": get_text_safe(all_rightCol, 27),
+            "job_Duties_Description": get_text_safe(all_rightCol, 28),
+            "job_Minimum_Qualifications": get_text_safe(all_rightCol, 29),
+            "job_Additional_Comments": get_text_safe(all_rightCol, 30),
+            "job_Apply_Name": get_text_safe(all_rightCol, 31),
+            "job_Apply_Telephone": get_text_safe(all_rightCol, 32),
+            "job_Apply_Fax": get_text_safe(all_rightCol, 33),
+            "job_Apply_Email": get_text_safe(all_rightCol, 34),
+            "job_Apply_Street_Addr": get_text_safe(all_rightCol, 35) + "\n" + get_text_safe(all_rightCol, 36),
+            "job_Apply_City": get_text_safe(all_rightCol, 37),
+            "job_Apply_State": get_text_safe(all_rightCol, 38),
+            "job_Apply_Zip_Code": get_text_safe(all_rightCol, 39),
+            "job_Note_On_Applying": get_text_safe(all_rightCol, 40)
+        }
 
-        #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-        # Updating Dictionary
-        #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+    # Updating Dictionary
+    #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-            job_all_attributes.append(job_data)
+        job_all_attributes.append(job_data)
 
 #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 # Output to JSON and CSV
